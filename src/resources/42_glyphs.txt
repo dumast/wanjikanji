@@ -1,0 +1,404 @@
+<h2>Radicals</h2>
+骨
+Bone
+瓜
+Melon
+<img class="radical-image" alt="satellite" src="https://cdn.wanikani.com/subjects/images/8798-satellite-large.png" />
+Satellite
+屋
+Shop
+<h2>Kanji</h2>
+析
+せき
+Analysis
+弧
+こ
+Arc
+到
+とう
+Arrival
+軸
+じく
+Axis
+綱
+つな
+Cable
+挑
+ちょう
+Challenge
+焦
+しょう
+Char
+掘
+くつ
+Dig
+紛
+ふん
+Distract
+範
+はん
+Example
+括
+かつ
+Fasten
+床
+しょう
+Floor
+握
+あく
+Grip
+枢
+すう
+Hinge
+揚
+あ
+Hoist
+潟
+かた
+Lagoon
+芝
+しば
+Lawn
+肝
+かん
+Liver
+喪
+そう
+Mourning
+網
+もう
+Netting
+克
+こく
+Overcome
+泊
+はく
+Overnight
+双
+そう
+Pair
+柄
+がら
+Pattern
+哲
+てつ
+Philosophy
+斎
+さい
+Purification
+袋
+ふくろ
+Sack
+揺
+よう
+Shake
+滑
+かつ
+Slippery
+堅
+かた
+Solid
+暫
+ざん
+Temporarily
+糾
+きゅう
+Twist
+荒
+あ
+Wild
+<h2>Vocabulary</h2>
+挑戦
+ちょうせん
+A Challenge
+一括
+いっかつ
+All Together
+解析
+かいせき
+Analysis
+分析
+ぶんせき
+Analysis
+円弧
+えんこ
+Arc
+到着
+とうちゃく
+Arrival
+軸
+じく
+Axis
+中軸
+ちゅうじく
+Axis
+枢軸
+すうじく
+Axle
+双眼鏡
+そうがんきょう
+Binoculars
+糾弾
+きゅうだん
+Blame
+中枢
+ちゅうすう
+Center
+通信網
+つうしんもう
+Communicat...
+紛糾
+ふんきゅう
+Complication
+克服
+こくふく
+Conquest
+克明
+こくめい
+Detailed
+不孝者
+ふこうもの
+Disobedien...
+円滑
+えんかつ
+Effortless
+範
+はん
+Example
+発掘
+はっくつ
+Excavation
+模範
+もはん
+Exemplific...
+範囲
+はんい
+Extent
+親孝行
+おやこうこう
+Filial Piety
+床
+ゆか
+Floor
+焦点
+しょうてん
+Focal Point
+斎場
+さいじょう
+Funeral Hall
+ゴミ袋
+ごみぶくろ
+Garbage Bag
+握力
+あくりょく
+Handgrip
+握手
+あくしゅ
+Handshake
+掛軸
+かけじく
+Hanging Sc...
+肝炎
+かんえん
+Hepatitis
+温床
+おんしょう
+Hotbed
+暫く
+しばらく
+In A Littl...
+親不孝
+おやふこう
+Lack Of Fi...
+潟
+かた
+Lagoon
+芝
+しば
+Lawn
+芝草
+しばくさ
+Lawn
+芝生
+しばふ
+Lawn
+肝
+きも
+Liver
+肝臓
+かんぞう
+Liver
+宿泊
+しゅくはく
+Lodging
+喪失
+そうしつ
+Loss
+喪
+も
+Mourning
+福袋
+ふくぶくろ
+Mystery Bag
+国柄
+くにがら
+National C...
+網
+あみ
+Net
+一泊
+いっぱく
+One Night'...
+不透明
+ふとうめい
+Opacity
+双
+そう
+Pair
+括弧
+かっこ
+Parentheses
+柄
+がら
+Pattern
+人柄
+ひとがら
+Personal C...
+哲学
+てつがく
+Philosophy
+携帯電話
+けいたいでんわ
+Portable P...
+挑発
+ちょうはつ
+Provocation
+起床
+きしょう
+Rising
+綱
+つな
+Rope
+袋
+ふくろ
+Sack
+犠飛
+ぎひ
+Sacrifice Fly
+動揺
+どうよう
+Shaking
+病床
+びょうしょう
+Sickbed
+小柄
+こがら
+Small Build
+堅い
+かたい
+Solid
+最新鋭
+さいしんえい
+State Of T...
+書斎
+しょさい
+Study
+総括
+そうかつ
+Synthesis
+暫定
+ざんてい
+Tentative
+干潟
+ひがた
+Tidal Flat
+焦げる
+こげる
+To Be Burned
+吹き出す
+ふきだす
+To Begin T...
+荒れる
+あれる
+To Be Stormy
+透き通る
+すきとおる
+To Be Tran...
+吹き飛ばす
+ふきとばす
+To Blow Away
+吹き込む
+ふきこむ
+To Blow In
+挑む
+いどむ
+To Challen...
+掘る
+ほる
+To Dig
+薄める
+うすめる
+To Dilute
+紛らす
+まぎらす
+To Divert
+逃れる
+のがれる
+To Escape
+握る
+にぎる
+To Grasp
+揚げる
+あげる
+To Hoist
+逃がす
+にがす
+To Let Go
+駆け回る
+かけまわる
+To Run Around
+駆け込む
+かけこむ
+To Rush Into
+駆け出す
+かけだす
+To Rush Out
+揺る
+ゆる
+To Shake
+東芝
+とうしば
+Toshiba
+滑る
+すべる
+To Slide
+泊まる
+とまる
+To Stay Th...
+括る
+くくる
+To Tie Up
+口笛を吹く
+くちぶえをふく
+To Whistle
+交通網
+こうつうもう
+Traffic Ne...
+綱引き
+つなひき
+Tug Of War
+双子
+ふたご
+Twins
+二泊
+にはく
+Two Night'...
+統括
+とうかつ
+Unification
+荒い
+あらい
+Wild
+横綱
+よこづな
+Yokozuna

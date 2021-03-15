@@ -1,0 +1,473 @@
+<h2>Radicals</h2>
+卬
+Cat Pirate
+必
+Certain
+舎
+Cottage
+<img class="radical-image" alt="elf" src="https://cdn.wanikani.com/subjects/images/8799-elf-large.png" />
+Elf
+夜
+Night
+同
+Same
+夋
+Spider
+<h2>Kanji</h2>
+酸
+さん
+Acid
+賛
+さん
+Agree
+祖
+そ
+Ancestor
+銭
+せん
+Coin
+込
+こ
+Crowded
+衛
+えい
+Defense
+机
+つくえ
+Desk
+汚
+お
+Dirty
+飼
+か
+Domesticate
+複
+ふく
+Duplicate
+染
+せん
+Dye
+卵
+たまご
+Egg
+永
+えい
+Eternity
+績
+せき
+Exploits
+眼
+がん
+Eyeball
+液
+えき
+Fluid
+採
+さい
+Gather
+志
+し
+Intention
+興
+きょう
+Interest
+恩
+おん
+Kindness
+久
+きゅう
+Long Time
+党
+とう
+Party
+序
+じょ
+Preface
+雑
+ざつ
+Random
+桜
+さくら
+Sakura
+密
+みつ
+Secrecy
+秘
+ひ
+Secret
+厳
+げん
+Strict
+捨
+す
+Throw Away
+訳
+やく
+Translation
+欲
+よく
+Want
+暖
+だん
+Warm
+迎
+げい
+Welcome
+傷
+しょう
+Wound
+<h2>Vocabulary</h2>
+功績
+こうせき
+Achievement
+賛成
+さんせい
+Agreement
+先祖
+せんぞ
+Ancestors
+食欲
+しょくよく
+Appetite
+恩人
+おんじん
+Benefactor
+血液
+けつえき
+Blood
+ゆで卵
+ゆでたまご
+Boiled Egg
+火傷
+やけど
+Burn
+背広
+せびろ
+Business Suit
+肉欲
+にくよく
+Carnal Des...
+桜んぼ
+さくらんぼ
+Cherry
+大騒ぎ
+おおさわぎ
+Clamor
+押入れ
+おしいれ
+Closet
+銭
+ぜに
+Coin
+共産党
+きょうさんとう
+Communist ...
+複雑
+ふくざつ
+Complicated
+便秘
+べんぴ
+Constipation
+伝染病
+でんせんびょう
+Contagious...
+複写
+ふくしゃ
+Copying
+飾り
+かざり
+Decoration
+志望
+しぼう
+Desire
+机
+つくえ
+Desk
+汚水
+おすい
+Dirty Water
+卵
+たまご
+Egg
+英訳
+えいやく
+English Tr...
+眼
+め
+Eye
+眼球
+がんきゅう
+Eyeball
+老眼
+ろうがん
+Farsighted...
+永久
+えいきゅう
+Forever
+永遠
+えいえん
+Forever
+成績
+せいせき
+Grades
+祖父
+そふ
+Grandfather
+祖母
+そぼ
+Grandmother
+傷心
+しょうしん
+Heartbreak
+桜肉
+さくらにく
+Horse Meat
+衛生
+えいせい
+Hygiene
+感染
+かんせん
+Infection
+傷者
+しょうしゃ
+Injured Pe...
+志
+こころざし
+Intention
+興味
+きょうみ
+Interest
+通訳
+つうやく
+Interpreting
+和訳
+わやく
+Japanese T...
+自民党
+じみんとう
+Liberal De...
+液体
+えきたい
+Liquid
+久しい
+ひさしい
+Long Ago
+結婚式
+けっこんしき
+Marriage C...
+雑費
+ざっぴ
+Miscellane...
+複数
+ふくすう
+Multiple
+雑音
+ざつおん
+Noise
+撮影禁止
+さつえいきんし
+No Photos
+背中
+せなか
+One's Back
+酸素
+さんそ
+Oxygen
+党員
+とういん
+Party Member
+桜色
+さくらいろ
+Pink
+遊び
+あそび
+Play
+政党
+せいとう
+Political ...
+汚染
+おせん
+Pollution
+貧乏人
+びんぼうにん
+Poor Person
+序文
+じょぶん
+Preface
+採算
+さいさん
+Profit
+銭湯
+せんとう
+Public Bath
+出版社
+しゅっぱんしゃ
+Publishing...
+押しボタン
+おしぼたん
+Push Button
+生卵
+なまたまご
+Raw Egg
+訳
+わけ
+Reason
+恩賞
+おんしょう
+Reward
+桜
+さくら
+Sakura
+衛星
+えいせい
+Satellite
+匂い
+におい
+Scent
+密か
+ひそか
+Secret
+秘密
+ひみつ
+Secret
+密告
+みっこく
+Secret Inf...
+密会
+みっかい
+Secret Mee...
+自衛
+じえい
+Self Defense
+順序
+じゅんじょ
+Sequence
+飾り気
+かざりけ
+Showing Off
+密輸
+みつゆ
+Smuggling
+社会党
+しゃかいとう
+Socialist ...
+酸っぱい
+すっぱい
+Sour
+汚点
+おてん
+Stain
+背丈
+せたけ
+Stature
+厳しい
+きびしい
+Strict
+厳禁
+げんきん
+Strictly F...
+背が高い
+せがたかい
+Tall
+照り焼き
+てりやき
+Teriyaki
+冷える
+ひえる
+To Be Chilled
+込む
+こむ
+To Be Crowded
+浮かれる
+うかれる
+To Be Happy
+秘める
+ひめる
+To Conceal
+傷める
+いためる
+To Damage
+染める
+そめる
+To Dye
+火照る
+ほてる
+To Feel Hot
+採る
+とる
+To Gather
+汚れる
+よごれる
+To Get Dirty
+濡れる
+ぬれる
+To Get Wet
+越す
+こす
+To Go Beyond
+飼う
+かう
+To Keep A Pet
+漏らす
+もらす
+To Leak So...
+結婚する
+けっこんする
+To Marry
+今更
+いまさら
+Too Late
+迎える
+むかえる
+To Pick So...
+延長する
+えんちょうする
+To Prolong
+出版する
+しゅっぱんする
+To Publish
+購読する
+こうどくする
+To Subscribe
+捨てる
+すてる
+To Throw Away
+訳す
+やくす
+To Translate
+訳語
+やくご
+Translated...
+訳者
+やくしゃ
+Translator
+採用
+さいよう
+Use
+採決
+さいけつ
+Voting
+欲しい
+ほしい
+Wanted
+欲求
+よっきゅう
+Wants
+暖かい
+あたたかい
+Warm
+温暖
+おんだん
+Warm
+白旗
+しらはた
+White Flag
+意志
+いし
+Will
+意欲
+いよく
+Will
+傷
+きず
+Wound

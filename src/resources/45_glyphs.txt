@@ -1,0 +1,408 @@
+<h2>Radicals</h2>
+更
+Again
+家
+House
+守
+Protect
+<h2>Kanji</h2>
+頃
+ころ
+Approximate
+菌
+きん
+Bacteria
+鐘
+しょう
+Bell
+舟
+ふね
+Boat
+嫁
+よめ
+Bride
+暦
+れき
+Calendar
+曇
+くも
+Cloudy
+也
+なり
+Considerably
+塾
+じゅく
+Cram School
+呪
+のろ
+Curse
+湿
+しつ
+Damp
+稼
+か
+Earnings
+疲
+ひ
+Exhausted
+翔
+かけ
+Fly
+賭
+か
+Gamble
+霊
+れい
+Ghost
+溝
+こう
+Gutter
+狩
+か
+Hunt
+脚
+きゃく
+Leg
+澄
+す
+Lucidity
+塊
+かたまり
+Lump
+狂
+きょう
+Lunatic
+嬢
+じょう
+Miss
+裸
+ら
+Naked
+磨
+みが
+Polish
+陰
+いん
+Shade
+肌
+はだ
+Skin
+魂
+こん
+Soul
+矛
+む
+Spear
+眺
+ちょう
+Stare
+硬
+こう
+Stiff
+卓
+たく
+Table
+凶
+きょう
+Villain
+滝
+たき
+Waterfall
+井
+しょう
+Well
+<h2>Vocabulary</h2>
+いつ頃
+いつごろ
+About When
+警鐘
+けいしょう
+Alarm Bell
+年頃
+としごろ
+Approximat...
+頃
+ころ
+Approximat...
+凶悪
+きょうあく
+Atrocious
+細菌
+さいきん
+Bacteria
+悪趣味
+あくしゅみ
+Bad Habit
+鐘
+かね
+Bell
+賭け
+かけ
+Betting
+舟
+ふね
+Boat
+小舟
+こぶね
+Boat
+嫁
+よめ
+Bride
+電卓
+でんたく
+Calculator
+暦
+こよみ
+Calendar
+天井
+てんじょう
+Ceiling
+霊園
+れいえん
+Cemetery
+西暦
+せいれき
+Christian Era
+曇り
+くもり
+Cloudiness
+全裸
+ぜんら
+Completely...
+可也
+かなり
+Considerably
+塾
+じゅく
+Cram School
+塾生
+じゅくせい
+Cram Schoo...
+呪い
+のろい
+Curse
+凶器
+きょうき
+Dangerous ...
+食卓
+しょくたく
+Dining Table
+排水溝
+はいすいこう
+Drainage
+入籍
+にゅうせき
+Entry In F...
+悪霊
+あくりょう
+Evil Spirit
+疲労
+ひろう
+Fatigue
+肌色
+はだいろ
+Flesh Colored
+ばい菌
+ばいきん
+Germ
+亡霊
+ぼうれい
+Ghost
+陰気
+いんき
+Gloom
+鳥肌
+とりはだ
+Goosebumps
+溝
+みぞ
+Gutter
+半裸
+はんら
+Half Naked
+肌
+はだ
+Human Skin
+加湿器
+かしつき
+Humidifier
+狩人
+かりゅうど
+Hunter
+狩り
+かり
+Hunting
+霊感
+れいかん
+Inspiration
+黒潮
+くろしお
+Japan Current
+近頃
+ちかごろ
+Lately
+脚
+あし
+Leg
+遠距離
+えんきょり
+Long Distance
+塊
+かたまり
+Lump
+旧暦
+きゅうれき
+Lunisolar ...
+狂気
+きょうき
+Madness
+手頃
+てごろ
+Moderate
+湿気
+しっけ
+Moisture
+裸
+はだか
+Naked
+核分裂
+かくぶんれつ
+Nuclear Fi...
+海溝
+かいこう
+Ocean Trench
+若い頃
+わかいころ
+One's Youth
+小包
+こづつみ
+Package
+磨き
+みがき
+Polish
+義塾
+ぎじゅく
+Private Sc...
+眺望
+ちょうぼう
+Prospect
+滝川
+たきがわ
+Rapids
+この頃
+このごろ
+Recently
+先頃
+さきごろ
+Recently
+硬直
+こうちょく
+Rigidity
+元凶
+げんきょう
+Ringleader
+脚本
+きゃくほん
+Script
+陰
+かげ
+Shadow
+近距離
+きんきょり
+Short Dist...
+短距離
+たんきょり
+Short Dist...
+一斉に
+いっせいに
+Simultaneo...
+魂
+たましい
+Soul
+矛
+ほこ
+Spear
+〜魂
+こん
+Spirit
+殺菌
+さっきん
+Sterilization
+無菌
+むきん
+Sterilized
+硬い
+かたい
+Stiff
+卓
+たく
+Table
+卓球
+たっきゅう
+Table Tennis
+肌触り
+はだざわり
+The Touch Of
+潮時
+しおどき
+Tidal Hour
+襲撃する
+しゅうげきする
+To Attack
+澄む
+すむ
+To Become ...
+疲れる
+つかれる
+To Become ...
+湿る
+しめる
+To Be Damp
+滅びる
+ほろびる
+To Be Dest...
+呪う
+のろう
+To Curse
+稼ぐ
+かせぐ
+To Earn In...
+翔る
+かける
+To Fly
+賭ける
+かける
+To Gamble
+曇る
+くもる
+To Get Cloudy
+狂う
+くるう
+To Go Mad
+嫁ぐ
+とつぐ
+To Marry
+磨く
+みがく
+To Polish
+擦る
+する
+To Rub
+眺める
+ながめる
+To Stare At
+引き裂く
+ひきさく
+To Tear Up
+滝
+たき
+Waterfall
+井戸
+いど
+Well
+湿地
+しっち
+Wetlands
+包み紙
+つつみがみ
+Wrapping P...

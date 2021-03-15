@@ -1,0 +1,488 @@
+<h2>Radicals</h2>
+受
+Accept
+制
+Control
+旦
+Dawn
+<img class="radical-image" alt="death-star" src="https://cdn.wanikani.com/subjects/images/8790-death-star-large.png" />
+Death Star
+客
+Guest
+韋
+Korea
+然
+Nature
+<h2>Kanji</h2>
+庁
+ちょう
+Agency
+額
+がく
+Amount
+腕
+うで
+Arm
+境
+きょう
+Boundary
+燃
+ねん
+Burn
+担
+たん
+Carry
+祝
+しゅく
+Celebrate
+届
+とど
+Deliver
+違
+ちが
+Different
+差
+さ
+Distinction
+象
+ぞう
+Elephant
+展
+てん
+Expand
+層
+そう
+Layer
+視
+し
+Look At
+環
+かん
+Loop
+製
+せい
+Manufacture
+述
+じゅつ
+Mention
+武
+ぶ
+Military
+型
+けい
+Model
+狭
+せま
+Narrow
+管
+かん
+Pipe
+載
+さい
+Publish
+質
+しつ
+Quality
+量
+りょう
+Quantity
+販
+はん
+Sell
+供
+きょう
+Servant
+肩
+かた
+Shoulder
+株
+かぶ
+Stocks
+触
+しょく
+Touch
+輸
+ゆ
+Transport
+腰
+こし
+Waist
+<h2>Vocabulary</h2>
+上述
+じょうじゅつ
+Above Ment...
+年額
+ねんがく
+Annual Amount
+触角
+しょっかく
+Antenna
+腕
+うで
+Arm
+誕生日
+たんじょうび
+Birthday
+輸血
+ゆけつ
+Blood Tran...
+血管
+けっかん
+Blood Vessel
+両腕
+りょううで
+Both Arms
+境界
+きょうかい
+Boundary
+境
+さかい
+Boundary
+負担
+ふたん
+Burden
+可燃ゴミ
+かねんごみ
+Burnable G...
+特質
+とくしつ
+Characteri...
+子供
+こども
+Child
+親展
+しんてん
+Confidential
+対策
+たいさく
+Counter Plan
+記述
+きじゅつ
+Description
+違い
+ちがい
+Difference
+差別
+さべつ
+Discrimina...
+象
+ぞう
+Elephant
+環境
+かんきょう
+Environment
+本質
+ほんしつ
+Essence
+輸出
+ゆしゅつ
+Export
+遠視
+えんし
+Farsighted...
+定額
+ていがく
+Fixed Amount
+定量
+ていりょう
+Fixed Quan...
+額
+がく
+Framed Pic...
+燃料
+ねんりょう
+Fuel
+良質
+りょうしつ
+Good Quality
+官庁
+かんちょう
+Government...
+半額
+はんがく
+Half Price
+高値
+たかね
+High Price
+祝日
+しゅくじつ
+Holiday
+自家製
+じかせい
+Homemade
+担当
+たんとう
+In Charge
+交差点
+こうさてん
+Intersection
+多額
+たがく
+Large Amount
+大量
+たいりょう
+Large Quan...
+朝寝坊
+あさねぼう
+Late Riser
+法規
+ほうき
+Laws
+〜層
+そう
+Layer Of
+左腕
+ひだりうで
+Left Arm
+長袖
+ながそで
+Long Sleeves
+安値
+やすね
+Low Price
+中国製
+ちゅうごくせい
+Made In China
+日本製
+にほんせい
+Made In Japan
+アメリカ製
+あめりかせい
+Made In US A
+通販
+つうはん
+Mail Order
+管理
+かんり
+Management
+製作
+せいさく
+Manufacturing
+武道
+ぶどう
+Martial Arts
+品質
+ひんしつ
+Material Q...
+都庁
+とちょう
+Metropolit...
+警視庁
+けいしちょう
+Metropolit...
+型
+かた
+Model
+月額
+げつがく
+Monthly Am...
+一層
+いっそう
+Much More
+狭い
+せまい
+Narrow
+国境
+こっきょう
+National B...
+警察庁
+けいさつちょう
+National P...
+近視
+きんし
+Nearsighte...
+不燃ゴミ
+ふねんごみ
+Nonburnabl...
+提供
+ていきょう
+Offer
+営業中
+えいぎょうちゅう
+Open For B...
+過去形
+かこけい
+Past Tense
+現象
+げんしょう
+Phenomenon
+管
+くだ
+Pipe
+置き場
+おきば
+Place To P...
+値札
+ねふだ
+Price Tag
+所載
+しょさい
+Printed
+製品
+せいひん
+Product
+原型
+げんけい
+Prototype
+質
+しつ
+Quality
+量
+りょう
+Quantity
+質問
+しつもん
+Question
+記載
+きさい
+Record
+残額
+ざんがく
+Remaining ...
+応援団
+おうえんだん
+Rooting Se...
+販売
+はんばい
+Sales
+武士
+ぶし
+Samurai
+視覚
+しかく
+Sense Of S...
+半袖
+はんそで
+Short Sleeves
+肩
+かた
+Shoulder
+規準
+きじゅん
+Standard
+株式
+かぶしき
+Stock
+株
+かぶ
+Stock
+主観的
+しゅかんてき
+Subjective
+対象
+たいしょう
+Target
+時差
+じさ
+Time Diffe...
+援助する
+えんじょする
+To Assist
+届く
+とどく
+To Be Deli...
+違う
+ちがう
+To Be Diff...
+載る
+のる
+To Be Publ...
+燃やす
+もやす
+To Burn So...
+担ぐ
+かつぐ
+To Carry
+祝う
+いわう
+To Celebrate
+発展する
+はってんする
+To Develop
+無視する
+むしする
+To Ignore
+供える
+そなえる
+To Make An...
+量る
+はかる
+To Measure
+述べる
+のべる
+To Mention
+過ぎ
+すぎ
+Too Much
+寝坊する
+ねぼうする
+To Oversleep
+指差す
+ゆびさす
+To Point At
+提案する
+ていあんする
+To Propose
+応援する
+おうえんする
+To Root For
+営業する
+えいぎょうする
+To Run A B...
+差す
+さす
+To Shine At
+支援する
+しえんする
+To Support
+全額
+ぜんがく
+Total
+触る
+さわる
+To Touch
+感触
+かんしょく
+Touch
+観光客
+かんこうきゃく
+Tourist
+展示会
+てんじかい
+Trade Show
+伝統的
+でんとうてき
+Traditional
+輸送
+ゆそう
+Transport
+典型的
+てんけいてき
+Typical
+展開
+てんかい
+Unfolding
+価値観
+かちかん
+Values
+自動販売機
+じどうはんばいき
+Vending Ma...
+副大統領
+ふくだいとうりょう
+Vice Presi...
+腰
+こし
+Waist
+武器
+ぶき
+Weapon
+気象
+きしょう
+Weather
+木製
+もくせい
+Wooden
+腕時計
+うでどけい
+Wristwatch

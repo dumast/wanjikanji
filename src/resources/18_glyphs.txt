@@ -1,0 +1,499 @@
+<h2>Radicals</h2>
+争
+Conflict
+尭
+Gambler
+幸
+Happiness
+昔
+Long Ago
+曽
+Mask
+午
+Noon
+先
+Previous
+凶
+Treasure C...
+<h2>Kanji</h2>
+告
+こく
+Announce
+達
+たつ
+Attain
+焼
+や
+Bake
+借
+しゃく
+Borrow
+弓
+きゅう
+Bow
+脳
+のう
+Brain
+飴
+あめ
+Candy
+胸
+むね
+Chest
+喫
+きつ
+Consume
+等
+とう
+Equal
+枚
+まい
+Flat Objec...
+忘
+ぼう
+Forget
+訓
+くん
+Instruction
+種
+しゅ
+Kind
+報
+ほう
+News
+句
+く
+Paragraph
+許
+きょ
+Permit
+可
+か
+Possible
+祈
+き
+Pray
+僧
+そう
+Priest
+禁
+きん
+Prohibit
+静
+せい
+Quiet
+座
+ざ
+Sit
+煙
+えん
+Smoke
+汽
+き
+Steam
+叩
+こう
+Strike
+喉
+こう
+Throat
+類
+るい
+Type
+洗
+せん
+Wash
+禅
+ぜん
+Zen
+<h2>Vocabulary</h2>
+予告
+よこく
+Advance No...
+広告
+こうこく
+Advertisement
+笑い
+わらい
+A Laugh
+弓道
+きゅうどう
+Archery
+取り決め
+とりきめ
+Arrangement
+黒煙
+こくえん
+Black Smoke
+借用
+しゃくよう
+Borrowing
+弓
+ゆみ
+Bow
+脳
+のう
+Brain
+脳死
+のうし
+Brain Death
+脳みそ
+のうみそ
+Brains
+洗脳
+せんのう
+Brainwashing
+仏僧
+ぶっそう
+Buddhist P...
+平静
+へいせい
+Calm
+飴
+あめ
+Candy
+留守番
+るすばん
+Caretaker
+洗車
+せんしゃ
+Car Wash
+証明書
+しょうめいしょ
+Certificate
+お守り
+おまもり
+Amulet
+胸
+むね
+Chest
+分類
+ぶんるい
+Classifica...
+お笑い
+おわらい
+Comedy
+文句
+もんく
+Complaint
+告白
+こくはく
+Confession
+可愛い
+かわいい
+Cute
+借金
+しゃっきん
+Debt
+辞書形
+じしょけい
+Dictionary...
+可分
+かぶん
+Divisible
+書類
+しょるい
+Document
+上品
+じょうひん
+Elegant
+等しい
+ひとしい
+Equal
+対等
+たいとう
+Equality
+等号
+とうごう
+Equal Sign
+取り分け
+とりわけ
+Especially
+留学生
+りゅうがくせい
+Exchange S...
+遠く
+とおく
+Far Away
+一等
+いっとう
+First Class
+五枚
+ごまい
+Five Flat ...
+〜枚
+まい
+Flat Object
+禁止
+きんし
+Forbidden
+予報
+よほう
+Forecast
+金曜日
+きんようび
+Friday
+友達
+ともだち
+Friend
+銀座
+ぎんざ
+Ginza
+品物
+しなもの
+Goods
+落書き
+らくがき
+Graffiti
+手荷物
+てにもつ
+Hand Baggage
+幸い
+さいわい
+Happiness
+高等
+こうとう
+High Class
+何枚
+なんまい
+How Many F...
+不可欠
+ふかけつ
+Indispensable
+不等
+ふとう
+Inequality
+情報
+じょうほう
+Information
+関西弁
+かんさいべん
+Kansai Dia...
+種類
+しゅるい
+Kind
+叩頭
+こうとう
+Kowtow
+訓読み
+くんよみ
+Kun'yomi
+喉頭
+こうとう
+Larynx
+教訓
+きょうくん
+Lesson
+子守歌
+こもりうた
+Lullaby
+人類
+じんるい
+Mankind
+達人
+たつじん
+Master
+月曜日
+げつようび
+Monday
+報道
+ほうどう
+News Report
+禁煙
+きんえん
+No Smoking
+枚数
+まいすう
+Number Of ...
+大阪弁
+おおさかべん
+Osaka Dialect
+書き方
+かきかた
+Penmanship
+許可
+きょか
+Permission
+〜達
+たち
+Pluralizin...
+可能
+かのう
+Possible
+葉書
+はがき
+Postcard
+祈念
+きねん
+Prayer
+祈願
+きがん
+Prayer
+公告
+こうこく
+Public Notice
+静か
+しずか
+Quiet
+人種
+じんしゅ
+Race Of Pe...
+洗練
+せんれん
+Refinement
+親類
+しんるい
+Relatives
+借家
+しゃくや
+Renting A ...
+報告
+ほうこく
+Report
+焼き鳥
+やきとり
+Roast Chicken
+焼き肉
+やきにく
+Roast Meat
+下書き
+したがき
+Rough Draft
+大丈夫
+だいじょうぶ
+Safe
+土曜日
+どようび
+Saturday
+座席
+ざせき
+Seat
+正座
+せいざ
+Seiza
+煙
+けむり
+Smoke
+喫煙
+きつえん
+Smoking
+汽船
+きせん
+Steam Ship
+汽車
+きしゃ
+Steam Train
+静止
+せいし
+Still
+飴細工
+あめざいく
+Sugar Scul...
+日焼け
+ひやけ
+Sunburn
+日曜日
+にちようび
+Sunday
+夕焼け
+ゆうやけ
+Sunset
+禁句
+きんく
+Taboo Word
+喫茶店
+きっさてん
+Tea House
+僧院
+そういん
+Temple
+喉
+のど
+Throat
+木曜日
+もくようび
+Thursday
+告げる
+つげる
+To Announce
+達する
+たっする
+To Attain
+焼く
+やく
+To Bake
+借りる
+かりる
+To Borrow
+切り取る
+きりとる
+To Cut Off
+配達する
+はいたつする
+To Deliver
+忘れる
+わすれる
+To Forget
+固まる
+かたまる
+To Harden
+許す
+ゆるす
+To Permit
+取り出す
+とりだす
+To Pick Out
+祈る
+いのる
+To Pray
+禁じる
+きんじる
+To Prohibit
+報じる
+ほうじる
+To Report On
+書き直す
+かきなおす
+To Rewrite
+座る
+すわる
+To Sit
+叩く
+たたく
+To Strike
+洗う
+あらう
+To Wash
+書き入れる
+かきいれる
+To Write In
+訓練
+くんれん
+Training
+駅弁
+えきべん
+Train Stat...
+伝達
+でんたつ
+Transmission
+火曜日
+かようび
+Tuesday
+警告
+けいこく
+Warning
+水曜日
+すいようび
+Wednesday
+忘年会
+ぼうねんかい
+Year End P...
+座禅
+ざぜん
+Zen Medita...
+禅僧
+ぜんそう
+Zen Priest
+禅寺
+ぜんでら
+Zen Temple

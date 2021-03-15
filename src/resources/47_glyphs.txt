@@ -1,0 +1,397 @@
+<h2>Radicals</h2>
+敝
+Penguin
+波
+Wave
+<h2>Kanji</h2>
+幣
+へい
+Cash
+箸
+はし
+Chopsticks
+瞭
+りょう
+Clear
+崖
+がい
+Cliff
+炊
+すい
+Cook
+粧
+しょう
+Cosmetics
+墜
+つい
+Crash
+欺
+ぎ
+Deceit
+滴
+てき
+Drip
+塀
+へい
+Fence
+霧
+きり
+Fog
+扇
+せん
+Folding Fan
+扉
+ひ
+Front Door
+恨
+こん
+Grudge
+帽
+ぼう
+Hat
+憎
+ぞう
+Hate
+佐
+さ
+Help
+挿
+そう
+Insert
+伊
+い
+Italy
+詐
+さ
+Lie
+如
+じょ
+Likeness
+唇
+くちびる
+Lips
+掌
+しょう
+Manipulate
+婆
+ば
+Old Woman
+哀
+あい
+Pathetic
+虹
+にじ
+Rainbow
+爽
+さわ
+Refreshing
+憩
+けい
+Rest
+尺
+しゃく
+Shaku
+砕
+さい
+Smash
+粘
+ねん
+Sticky
+畳
+じょう
+Tatami Mat
+胴
+どう
+Torso
+巾
+きん
+Towel
+芯
+しん
+Wick
+柳
+りゅう
+Willow
+<h2>Vocabulary</h2>
+補佐
+ほさ
+Aid
+裸足
+はだし
+Barefoot
+胴体
+どうたい
+Body
+挿絵
+さしえ
+Book Illus...
+箸
+はし
+Chopsticks
+明瞭
+めいりょう
+Clarity
+粘土
+ねんど
+Clay
+崖
+がけ
+Cliff
+粘着
+ねんちゃく
+Cohesion
+大佐
+たいさ
+Colonel
+川柳
+せんりゅう
+Comic Haiku
+炊事
+すいじ
+Cooking
+自炊
+じすい
+Cooking Fo...
+芯
+しん
+Core
+〜畳
+じょう
+Counter Fo...
+布巾
+ふきん
+Dish Cloth
+門扉
+もんぴ
+Doors Of A...
+水滴
+すいてき
+Drop Of Water
+雑巾
+ぞうきん
+Dust Cloth
+稼ぎ
+かせぎ
+Earnings
+扇風機
+せんぷうき
+Electric Fan
+伊達
+だて
+Elegance
+挿話
+そうわ
+Episode
+墜落
+ついらく
+Falling
+霧
+きり
+Fog
+扇子
+せんす
+Folding Fan
+詐欺
+さぎ
+Fraud
+扉
+とびら
+Front Door
+お婆さん
+おばあさん
+Grandmother
+掌握
+しょうあく
+Grasping
+帽子
+ぼうし
+Hat
+〜狩り
+かり
+Hunting
+挿入
+そうにゅう
+Insertion
+点滴
+てんてき
+Intravenou...
+伊勢
+いせ
+Ise
+塊魂
+かたまりだましい
+Katamari D...
+欠如
+けつじょ
+Lack
+中佐
+ちゅうさ
+Lieutenant...
+躍如
+やくじょ
+Lifelike
+唇
+くちびる
+Lips
+愛憎
+あいぞう
+Love And Hate
+下唇
+したくちびる
+Lower Lip
+少佐
+しょうさ
+Major
+化粧
+けしょう
+Makeup
+詐称
+さしょう
+Misreprese...
+貨幣
+かへい
+Money
+朝霧
+あさぎり
+Morning Fog
+土塀
+どべい
+Mud Wall
+老婆
+ろうば
+Old Woman
+掌
+てのひら
+Palm Of On...
+紙幣
+しへい
+Paper Money
+可哀想
+かわいそう
+Pitiful
+哀れ
+あわれ
+Pity
+矛先
+ほこさき
+Point Of S...
+粉砕
+ふんさい
+Pulverization
+虹
+にじ
+Rainbow
+虹色
+にじいろ
+Rainbow Co...
+花柳
+かりゅう
+Red Light ...
+爽やか
+さわやか
+Refreshing
+痛恨
+つうこん
+Regret
+休憩
+きゅうけい
+Rest
+炊飯器
+すいはんき
+Rice Cooker
+砕石
+さいせき
+Rubble
+尺
+しゃく
+Shaku
+撃墜
+げきつい
+Shooting Down
+悲哀
+ひあい
+Sorrow
+割り箸
+わりばし
+Splittable...
+粘々
+ねばねば
+Stickiness
+突如
+とつじょ
+Suddenly
+詐取
+さしゅ
+Swindle
+巻尺
+まきじゃく
+Tape Measure
+畳
+たたみ
+Tatami Mat
+お陰で
+おかげで
+Thanks To
+黒い霧
+くろいきり
+Thick Fog
+疲れ
+つかれ
+Tiredness
+粘る
+ねばる
+To Be Sticky
+歯を磨く
+はをみがく
+To Brush O...
+澄ます
+すます
+To Clear
+炊く
+たく
+To Cook
+欺く
+あざむく
+To Deceive
+滴る
+したたる
+To Drip
+扇ぐ
+あおぐ
+To Fan
+憎む
+にくむ
+To Hate
+恨む
+うらむ
+To Hold A ...
+湿らせる
+しめらせる
+To Moisten
+憩う
+いこう
+To Rest
+胴
+どう
+Torso
+砕く
+くだく
+To Smash
+車掌
+しゃしょう
+Train Cond...
+上唇
+うわくちびる
+Upper Lip
+眺め
+ながめ
+View
+塀
+へい
+Wall
+柳
+やなぎ
+Willow
+お嬢さん
+おじょうさん
+Young Lady

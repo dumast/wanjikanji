@@ -1,0 +1,459 @@
+<h2>Radicals</h2>
+<img class="radical-image" alt="bar" src="https://cdn.wanikani.com/subjects/images/8782-bar-large.png" />
+Bar
+才
+Genius
+分
+Part
+勺
+Pool
+公
+Public
+井
+Well
+<h2>Kanji</h2>
+能
+のう
+Ability
+芸
+げい
+Acting
+術
+じゅつ
+Art
+雰
+ふん
+Atmosphere
+骨
+こつ
+Bone
+束
+そく
+Bundle
+周
+しゅう
+Circumference
+協
+きょう
+Cooperation
+例
+れい
+Example
+折
+せつ
+Fold
+基
+き
+Foundation
+性
+せい
+Gender
+妥
+だ
+Gentle
+卒
+そつ
+Graduate
+固
+こ
+Hard
+望
+ぼう
+Hope
+材
+ざい
+Lumber
+参
+さん
+Participate
+完
+かん
+Perfect
+松
+まつ
+Pine
+約
+やく
+Promise
+残
+ざん
+Remainder
+季
+き
+Seasons
+技
+ぎ
+Skill
+格
+かく
+Status
+頑
+がん
+Stubborn
+囲
+い
+Surround
+的
+てき
+Target
+念
+ねん
+Thought
+希
+き
+Wish
+<h2>Vocabulary</h2>
+能力
+のうりょく
+Ability
+約
+やく
+About
+知り合い
+しりあい
+Acquaintance
+〜的
+てき
+Al
+周年
+しゅうねん
+Anniversary
+芸術
+げいじゅつ
+Art
+雰囲気
+ふんいき
+Atmosphere
+自動
+じどう
+Automatic
+悪例
+あくれい
+Bad Example
+気持ち悪い
+きもちわるい
+Bad Feeling
+骨
+ほね
+Bone
+骨折
+こっせつ
+Broken Bone
+束
+たば
+Bundle
+人参
+にんじん
+Carrot
+場合
+ばあい
+Case
+人格
+じんかく
+Character
+周り
+まわり
+Circumference
+芸人
+げいにん
+Comedian
+完全
+かんぜん
+Complete
+完成
+かんせい
+Completion
+完了
+かんりょう
+Completion
+妥協
+だきょう
+Compromise
+具合
+ぐあい
+Condition
+料理
+りょうり
+Cooking
+協力
+きょうりょく
+Cooperation
+周期
+しゅうき
+Cycle
+深さ
+ふかさ
+Depth
+願望
+がんぼう
+Desire
+失望
+しつぼう
+Disappoint...
+消しゴム
+けしごむ
+Eraser
+悪気
+わるぎ
+Evil Intent
+例文
+れいぶん
+Example Se...
+例外
+れいがい
+Exception
+女性
+じょせい
+Female
+美術
+びじゅつ
+Fine Art
+例えば
+たとえば
+For Example
+基本
+きほん
+Foundation
+試合
+しあい
+Game
+芸者
+げいしゃ
+Geisha
+性
+せい
+Gender
+良好
+りょうこう
+Good
+卒業
+そつぎょう
+Graduation
+固い
+かたい
+Hard
+念願
+ねんがん
+Heart's De...
+希望
+きぼう
+Hope
+消化不良
+しょうかふりょう
+Indigestion
+材料
+ざいりょう
+Ingredients
+一例
+いちれい
+Instance
+本能
+ほんのう
+Instinct
+意図的
+いとてき
+Intentional
+着物
+きもの
+Kimono
+材木
+ざいもく
+Lumber
+男性
+だんせい
+Male
+意地悪
+いじわる
+Malicious
+近代的
+きんだいてき
+Contemporary 
+山登り
+やまのぼり
+Mountain C...
+動き
+うごき
+Movement
+一周
+いっしゅう
+One Time A...
+残業
+ざんぎょう
+Overtime
+周囲
+しゅうい
+Perimeter
+性格
+せいかく
+Personality
+松
+まつ
+Pine
+松葉
+まつば
+Pine Needle
+流行語
+りゅうこうご
+Popular Ph...
+流行歌
+りゅうこうか
+Popular Song
+約束
+やくそく
+Promise
+目的
+もくてき
+Purpose
+理性
+りせい
+Reason
+残り
+のこり
+Remainder
+予約
+よやく
+Reservation
+回転ずし
+かいてんずし
+Rotating S...
+文化祭
+ぶんかさい
+School Fes...
+性病
+せいびょう
+Sexually T...
+格好
+かっこう
+Shape
+芸能界
+げいのうかい
+Showbusiness
+合図
+あいず
+Signal
+骨格
+こっかく
+Skeleton
+技能
+ぎのう
+Skill
+特技
+とくぎ
+Specialty
+言葉つき
+ことばつき
+Speech
+運動会
+うんどうかい
+Sports Day
+待ちぼうけ
+まちぼうけ
+Stood Up
+頑固
+がんこ
+Stubborn
+水着
+みずぎ
+Swimsuit
+才能
+さいのう
+Talent
+技
+わざ
+Technique
+四季
+しき
+The Four S...
+間に合う
+まにあう
+To Be In T...
+落ち着く
+おちつく
+To Calm Down
+参る
+まいる
+To Come
+消化する
+しょうかする
+To Digest
+消える
+きえる
+To Disappear
+期待する
+きたいする
+To Expect
+折る
+おる
+To Fold
+合わせる
+あわせる
+To Join To...
+待たせる
+またせる
+To Make So...
+動かす
+うごかす
+To Move So...
+残念
+ざんねん
+Too Bad
+合格する
+ごうかくする
+To Pass A ...
+着ける
+つける
+To Put On
+残る
+のこる
+To Remain ...
+回転する
+かいてんする
+To Rotate
+流れる
+ながれる
+To Stream
+勉強する
+べんきょうする
+To Study
+囲む
+かこむ
+To Surround
+旅行する
+りょこうする
+To Travel
+起こす
+おこす
+To Wake So...
+温める
+あたためる
+To Warm Up
+望む
+のぞむ
+To Wish
+旅行者
+りょこうしゃ
+Traveler
+下着
+したぎ
+Underwear
+協会
+きょうかい
+Union
+悪口
+わるくち
+Verbal Abuse
+日本的
+にほんてき
+Very Japanese
+待合
+まちあい
+Waiting Room
+望み
+のぞみ
+Wish
+折角
+せっかく
+With Trouble
+木材
+もくざい
+Wood

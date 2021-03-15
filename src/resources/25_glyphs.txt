@@ -1,0 +1,433 @@
+<h2>Radicals</h2>
+両
+Both
+京
+Capital
+友
+Friend
+莫
+Greenhouse
+冓
+Lifeguard
+禹
+Mantis
+交
+Mix
+甫
+Wedding
+<h2>Kanji</h2>
+慣
+かん
+Accustomed
+居
+きょ
+Alive
+逮
+たい
+Apprehend
+票
+ひょう
+Ballot
+属
+ぞく
+Belong
+捉
+とら
+Catch
+捕
+ほ
+Catch
+候
+こう
+Climate
+輩
+はい
+Comrade
+況
+きょう
+Condition
+響
+きょう
+Echo
+効
+こう
+Effective
+抜
+ぬ
+Extract
+鮮
+せん
+Fresh
+満
+まん
+Full
+与
+よ
+Give
+掛
+か
+Hang
+隠
+いん
+Hide
+模
+も
+Imitation
+含
+がん
+Include
+訟
+しょう
+Lawsuit
+限
+げん
+Limit
+肥
+ひ
+Obese
+豊
+ほう
+Plentiful
+替
+か
+Replace
+景
+けい
+Scene
+巻
+かん
+Scroll
+捜
+そう
+Search
+構
+こう
+Set Up
+影
+えい
+Shadow
+絞
+こう
+Strangle
+訴
+そ
+Sue
+補
+ほ
+Supplement
+渡
+わた
+Transit
+<h2>Vocabulary</h2>
+告訴
+こくそ
+Accusation
+女優
+じょゆう
+Actress
+効果
+こうか
+An Effect
+逮捕
+たいほ
+Arrest
+所属
+しょぞく
+Attached To
+票
+ひょう
+Ballot
+賞与金
+しょうよきん
+Bonus
+景況
+けいきょう
+Business C...
+候補者
+こうほしゃ
+Candidate
+気候
+きこう
+Climate
+全景
+ぜんけい
+Complete View
+状況
+じょうきょう
+Condition
+捜査
+そうさ
+Criminal I...
+習慣
+しゅうかん
+Custom
+絞殺
+こうさつ
+Death By S...
+割引
+わりびき
+Discount
+反響
+はんきょう
+Echo
+効力
+こうりょく
+Effectiveness
+効率
+こうりつ
+Efficiency
+年輩
+ねんぱい
+Elderly Pe...
+結構
+けっこう
+Fine
+上巻
+じょうかん
+First Volume
+前景
+ぜんけい
+Foreground
+新鮮
+しんせん
+Fresh
+鮮魚
+せんぎょ
+Fresh Fish
+満員
+まんいん
+Full House
+満月
+まんげつ
+Full Moon
+含意
+がんい
+Implication
+無限
+むげん
+Infinite
+影響
+えいきょう
+Influence
+不規則
+ふきそく
+Irregularity
+後輩
+こうはい
+Junior
+下巻
+げかん
+Last Volume
+訴訟
+そしょう
+Lawsuit
+革ジャン
+かわじゃん
+Leather Ja...
+限度
+げんど
+Limit
+限界
+げんかい
+Limit
+限定
+げんてい
+Limit
+肥料
+ひりょう
+Manure
+金属
+きんぞく
+Metal
+掛け算
+かけざん
+Multiplica...
+長崎県
+ながさきけん
+Nagasaki P...
+肥満
+ひまん
+Obesity
+一巻
+いっかん
+One Volume
+構成
+こうせい
+Organization
+模様
+もよう
+Pattern
+満点
+まんてん
+Perfect Score
+模型
+もけい
+Plastic Model
+豊か
+ゆたか
+Plentiful
+豊満
+ほうまん
+Plump
+不況
+ふきょう
+Recession
+規則正しい
+きそくただしい
+Regular
+隠居
+いんきょ
+Retirement
+革命家
+かくめいか
+Revolutionary
+律動的
+りつどうてき
+Rhythmical
+満足
+まんぞく
+Satisfied
+規模
+きぼ
+Scale
+景観
+けいかん
+Scenery
+景色
+けしき
+Scenery
+時候
+じこう
+Season
+二巻
+にかん
+Second Volume
+先輩
+せんぱい
+Senior
+影
+かげ
+Shadow
+光景
+こうけい
+Spectacle
+期限
+きげん
+Term
+天候
+てんこう
+The Weather
+時限
+じげん
+Time Limit
+吸収する
+きゅうしゅうする
+To Absorb
+呼ばれる
+よばれる
+To Be Called
+捕まる
+つかまる
+To Be Caught
+慣れる
+なれる
+To Become ...
+割れる
+われる
+To Be Divided
+効く
+きく
+To Be Effe...
+属する
+ぞくする
+To Belong To
+替わる
+かわる
+To Be Repl...
+構う
+かまう
+To Care About
+捉える
+とらえる
+To Catch
+渡る
+わたる
+To Cross
+響く
+ひびく
+To Echo
+居る
+いる
+To Exist
+抜く
+ぬく
+To Extract
+与える
+あたえる
+To Give
+渡す
+わたす
+To Hand Over
+掛ける
+かける
+To Hang
+隠す
+かくす
+To Hide
+含む
+ふくむ
+To Include
+増す
+ます
+To Increase
+限る
+かぎる
+To Limit
+見渡す
+みわたす
+To Look Ou...
+頑張る
+がんばる
+To Persevere
+準備する
+じゅんびする
+To Prepare
+替える
+かえる
+To Replace
+巻く
+まく
+To Roll
+捜す
+さがす
+To Search For
+現す
+あらわす
+To Show
+収める
+おさめる
+To Store
+絞める
+しめる
+To Strangle
+訴える
+うったえる
+To Sue
+補う
+おぎなう
+To Supplement
+優れる
+すぐれる
+To Surpass
+投票する
+とうひょうする
+To Vote
+絞る
+しぼる
+To Wring Out
+家庭教師
+かていきょうし
+Tutor
+鮮やか
+あざやか
+Vivid

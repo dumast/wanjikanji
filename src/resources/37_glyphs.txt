@@ -1,0 +1,466 @@
+<h2>Radicals</h2>
+兆
+Omen
+賞
+Prize
+串
+Skewer
+暴
+Violence
+包
+Wrap
+<h2>Kanji</h2>
+患
+かん
+Afflicted
+狙
+そ
+Aim
+陣
+じん
+Army Base
+塁
+るい
+Base
+弾
+だん
+Bullet
+葬
+そう
+Burial
+抗
+こう
+Confront
+崩
+ほう
+Crumble
+遣
+けん
+Dispatch
+掲
+けい
+Display
+爆
+ばく
+Explode
+眉
+み
+Eyebrows
+恵
+え
+Favor
+漁
+ぎょ
+Fishing
+香
+こう
+Fragrance
+湾
+わん
+Gulf
+跳
+ちょう
+Hop
+抱
+だ
+Hug
+旬
+しゅん
+In Season
+聴
+ちょう
+Listen
+臨
+りん
+Look To
+兆
+ちょう
+Omen
+契
+けい
+Pledge
+刑
+けい
+Punish
+募
+ぼ
+Recruit
+償
+しょう
+Reparation
+抵
+てい
+Resist
+戻
+もど
+Return
+昭
+しょう
+Shining
+串
+くし
+Skewer
+闘
+とう
+Struggle
+執
+しゅう
+Tenacious
+跡
+せき
+Traces
+削
+さく
+Whittle Down
+<h2>Vocabulary</h2>
+狙い
+ねらい
+Aim
+抗体
+こうたい
+Antibody
+患者
+かんじゃ
+A Patient
+応募
+おうぼ
+Application
+陣
+じん
+Army Base
+執着
+しゅうちゃく
+Attachment To
+塁
+るい
+Baseball Base
+塁審
+るいしん
+Baseball U...
+塁打
+るいだ
+Base Hit
+戦闘
+せんとう
+Battle
+爆弾
+ばくだん
+Bomb
+爆撃
+ばくげき
+Bombing
+眉間
+みけん
+Brow
+弾
+たま
+Bullet
+弾丸
+だんがん
+Bullet
+陣営
+じんえい
+Camp
+契機
+けいき
+Chance
+崩壊
+ほうかい
+Collapse
+契約
+けいやく
+Contract
+火葬
+かそう
+Cremation
+死刑
+しけい
+Death Penalty
+削除
+さくじょ
+Deletion
+派遣
+はけん
+Dispatch
+酔っ払い
+よっぱらい
+Drunk
+弾力
+だんりょく
+Elasticity
+急患
+きゅうかん
+Emergency ...
+証跡
+しょうせき
+Evidence
+試験地獄
+しけんじごく
+Exam Hell
+爆発
+ばくはつ
+Explosion
+爆笑
+ばくしょう
+Explosive ...
+眉
+まゆ
+Eyebrows
+闘志
+とうし
+Fighting S...
+上旬
+じょうじゅん
+First Ten ...
+漁師
+りょうし
+Fisherman
+漁船
+ぎょせん
+Fishing Boat
+漁業
+ぎょぎょう
+Fishing In...
+香り
+かおり
+Fragrance
+募金
+ぼきん
+Fundraising
+葬式
+そうしき
+Funeral
+給油所
+きゅうゆじょ
+Gas Station
+大抵
+たいてい
+Generally
+串焼き
+くしやき
+Grilled Sk...
+湾
+わん
+Gulf
+二日酔い
+ふつかよい
+Hangover
+聴力
+ちょうりょく
+Hearing Ab...
+香港
+ほんこん
+Hong Kong
+旬
+しゅん
+In Season
+刑務所
+けいむしょ
+Jail
+香川県
+かがわけん
+Kagawa Pre...
+下旬
+げじゅん
+Last Ten D...
+紹介状
+しょうかいじょう
+Letter Of ...
+終身刑
+しゅうしんけい
+Life Sentence
+聴者
+ちょうしゃ
+Listener
+一人暮らし
+ひとりぐらし
+Living Alone
+中旬
+ちゅうじゅん
+Middle Ten...
+奇跡
+きせき
+Miracle
+味噌汁
+みそしる
+Miso Soup
+掲示
+けいじ
+Notice
+油絵
+あぶらえ
+Oil Painting
+前兆
+ぜんちょう
+Omen
+支払い
+しはらい
+Payment
+払い
+はらい
+Payment
+香水
+こうすい
+Perfume
+刑事
+けいじ
+Police Det...
+〜鍋
+なべ
+Pot
+刑期
+けいき
+Prison Term
+掲載
+けいさい
+Publication
+刑罰
+けいばつ
+Punishment
+募集
+ぼしゅう
+Recruiting
+削減
+さくげん
+Reduction
+弁償
+べんしょう
+Reimbursement
+抗戦
+こうせん
+Resistance
+遺跡
+いせき
+Ruins
+船酔い
+ふなよい
+Sea Sickness
+臨海
+りんかい
+Seaside
+自己紹介
+じこしょうかい
+Self Intro...
+恥知らず
+はじしらず
+Shameless ...
+彼女
+かのじょ
+She
+狙撃
+そげき
+Shooting
+昭和
+しょうわ
+Showa Era
+兆候
+ちょうこう
+Sign
+串
+くし
+Skewer
+遅い
+おそい
+Slow
+汁物
+しるもの
+Soups
+自爆
+じばく
+Suicide Bomb
+甘酢
+あまず
+Sweet Vinegar
+台湾
+たいわん
+Taiwan
+臨時
+りんじ
+Temporary
+募る
+つのる
+To Appeal For
+患う
+わずらう
+To Be Affl...
+恥ずかしがる
+はずかしがる
+To Be Shy
+弾む
+はずむ
+To Bounce
+葬る
+ほうむる
+To Bury
+償う
+つぐなう
+To Compens...
+遣う
+つかう
+To Consider
+対向する
+たいこうする
+To Counter
+崩す
+くずす
+To Demolish
+恵む
+めぐむ
+To Do A Favor
+臨む
+のぞむ
+To Face
+破れる
+やぶれる
+To Get Torn
+抱く
+だく
+To Hug
+紹介する
+しょうかいする
+To Introduce
+跳ぶ
+とぶ
+To Jump
+聴く
+きく
+To Listen To
+掲げる
+かかげる
+To Put Up ...
+反抗する
+はんこうする
+To Rebel
+抵抗する
+ていこうする
+To Resist
+戻る
+もどる
+To Return
+戻す
+もどす
+To Return
+闘う
+たたかう
+To Struggle
+盛り上がる
+もりあがる
+To Swell
+執る
+とる
+To Take Co...
+削る
+けずる
+To Whittle...
+跡
+あと
+Traces
+盗聴
+とうちょう
+Wiretapping
+知恵
+ちえ
+Wisdom
+執筆
+しっぴつ
+Writing

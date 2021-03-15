@@ -1,0 +1,439 @@
+<h2>Radicals</h2>
+角
+Angle
+刃
+Blade
+半
+Half
+啇
+Mohawk
+次
+Next
+番
+Number
+平
+Peace
+斉
+Simultaneous
+<h2>Kanji</h2>
+責
+せき
+Blame
+条
+じょう
+Clause
+済
+さい
+Come To An...
+委
+い
+Committee
+省
+しょう
+Conserve
+制
+せい
+Control
+批
+ひ
+Criticism
+断
+だん
+Cut Off
+任
+にん
+Duty
+素
+そ
+Element
+敵
+てき
+Enemy
+羨
+せん
+Envy
+設
+せつ
+Establish
+評
+ひょう
+Evaluate
+検
+けん
+Examine
+岡
+おか
+Hill
+増
+ぞう
+Increase
+査
+さ
+Inspect
+審
+しん
+Judge
+判
+はん
+Judge
+件
+けん
+Matter
+際
+さい
+Occasion
+企
+き
+Plan
+挙
+きょ
+Raise
+認
+にん
+Recognize
+資
+し
+Resources
+義
+ぎ
+Righteousness
+権
+けん
+Rights
+派
+は
+Sect
+務
+む
+Task
+税
+ぜい
+Tax
+解
+かい
+Untie
+総
+そう
+Whole
+<h2>Vocabulary</h2>
+実際
+じっさい
+Actually
+宇宙人
+うちゅうじん
+Alien
+分解
+ぶんかい
+Analysis
+大敵
+たいてき
+Arch Enemy
+権利
+けんり
+A Right
+総体的
+そうたいてき
+As A Whole
+暴走族
+ぼうそうぞく
+Biker Gang
+書評
+しょひょう
+Book Review
+得体
+えたい
+Character
+検査
+けんさ
+Checkup
+布地
+ぬのじ
+Cloth
+理解
+りかい
+Comprehension
+強制
+きょうせい
+Compulsory
+条件
+じょうけん
+Condition
+確認
+かくにん
+Confirmation
+建設
+けんせつ
+Construction
+正解
+せいかい
+Correct An...
+暴力団
+ぼうりょくだん
+Crime Synd...
+批判
+ひはん
+Criticism
+評論
+ひょうろん
+Critique
+いい加減にしろ
+いいかげんにしろ
+Cut It Out
+定義
+ていぎ
+Definition
+任務
+にんむ
+Duty
+経済
+けいざい
+Economy
+選挙
+せんきょ
+Election
+敵
+てき
+Enemy
+羨望
+せんぼう
+Envy
+審査
+しんさ
+Examination
+解説
+かいせつ
+Explanation
+評判
+ひょうばん
+Fame
+履き物
+はきもの
+Footwear
+資金
+しきん
+Funds
+資本
+しほん
+Funds
+立派
+りっぱ
+High Class
+人権
+じんけん
+Human Rights
+事件
+じけん
+Incident
+増加
+ぞうか
+Increase
+国際
+こくさい
+International
+投資
+とうし
+Investment
+主義
+しゅぎ
+Ism
+判断
+はんだん
+Judgement
+審判
+しんぱん
+Judgment
+正義
+せいぎ
+Justice
+心得
+こころえ
+Knowledge
+素敵
+すてき
+Lovely
+資料
+しりょう
+Material
+委員
+いいん
+Member Of ...
+〜務省
+むしょう
+Ministry Of
+形容動詞
+けいようどうし
+Na Adjective
+義務
+ぎむ
+Obligation
+事務所
+じむしょ
+Office
+岡山県
+おかやまけん
+Okayama Pr...
+判子
+はんこ
+One's Seal
+任意
+にんい
+Optional
+総合
+そうごう
+Overall
+参加者
+さんかしゃ
+Participant
+企画
+きかく
+Plan
+警察官
+けいさつかん
+Police Off...
+総理
+そうり
+Prime Mini...
+手続き
+てつづき
+Procedure
+固有名詞
+こゆうめいし
+Proper Noun
+公設
+こうせつ
+Public
+資格
+しかく
+Qualificat...
+素材
+そざい
+Raw Material
+反省
+はんせい
+Reconsider...
+責任
+せきにん
+Responsibi...
+自制
+じせい
+Self Control
+義理
+ぎり
+Sense Of Duty
+派手
+はで
+Showy
+際
+きわ
+Side
+解決
+かいけつ
+Solution
+宇宙船
+うちゅうせん
+Spaceship
+急増
+きゅうぞう
+Sudden Inc...
+容疑者
+ようぎしゃ
+Suspect
+制度
+せいど
+System
+税金
+ぜいきん
+Tax
+無税
+むぜい
+Tax Free
+増税
+ぞうぜい
+Tax Increase
+混乱する
+こんらんする
+To Be Conf...
+混む
+こむ
+To Be Crowded
+解ける
+とける
+To Be Solved
+責める
+せめる
+To Blame
+済む
+すむ
+To Come To...
+続ける
+つづける
+To Continue
+減らす
+へらす
+To Decrease
+羨む
+うらやむ
+To Envy
+設ける
+もうける
+To Establish
+設定する
+せっていする
+To Establish
+混じる
+まじる
+To Get Mix...
+増える
+ふえる
+To Increase
+検問する
+けんもんする
+To Inspect
+省く
+はぶく
+To Omit
+参加する
+さんかする
+To Partici...
+説得する
+せっとくする
+To Persuade
+企てる
+くわだてる
+To Plan
+乱す
+みだす
+To Put In ...
+認める
+みとめる
+To Recognize
+断る
+ことわる
+To Refuse
+挙がる
+あがる
+To Rise
+目覚める
+めざめる
+To Wake Up
+務める
+つとめる
+To Work As
+他動詞
+たどうし
+Transitive...
+条約
+じょうやく
+Treaty
+制服
+せいふく
+Uniform
+無敵
+むてき
+Unrivaled
+口笛
+くちぶえ
+Whistling
+女権
+じょけん
+Women's Ri...

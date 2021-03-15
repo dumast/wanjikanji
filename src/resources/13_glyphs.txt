@@ -1,0 +1,508 @@
+<h2>Radicals</h2>
+身
+Body
+冊
+Bookshelf
+央
+Center
+丸
+Circle
+<img class="radical-image" alt="creeper" src="https://cdn.wanikani.com/subjects/images/8781-creeper-large.png" />
+Creeper
+東
+East
+象
+Elephant
+果
+Fruit
+良
+Good
+百
+Hundred
+意
+Idea
+原
+Original
+品
+Products
+畐
+Scarecrow
+尺
+Shrimp
+忄
+Soul
+坴
+Womb
+<h2>Kanji</h2>
+皆
+みな
+All
+謝
+しゃ
+Apologize
+整
+せい
+Arrange
+橋
+はし
+Bridge
+選
+せん
+Choose
+想
+そう
+Concept
+器
+き
+Container
+暗
+あん
+Dark
+疑
+ぎ
+Doubt
+料
+りょう
+Fee
+情
+じょう
+Feeling
+感
+かん
+Feeling
+様
+さま
+Formal Nam...
+養
+よう
+Foster
+緑
+みどり
+Green
+熱
+ねつ
+Heat
+億
+おく
+Hundred Mi...
+殺
+さつ
+Kill
+宿
+しゅく
+Lodge
+福
+ふく
+Luck
+鏡
+かがみ
+Mirror
+然
+ぜん
+Nature
+詩
+し
+Poem
+練
+れん
+Practice
+賞
+しょう
+Prize
+問
+もん
+Problem
+館
+かん
+Public Bui...
+映
+えい
+Reflect
+願
+がん
+Request
+士
+し
+Samurai
+課
+か
+Section
+標
+ひょう
+Signpost
+銀
+ぎん
+Silver
+駅
+えき
+Station
+像
+ぞう
+Statue
+題
+だい
+Topic
+輪
+りん
+Wheel
+<h2>Vocabulary</h2>
+感心
+かんしん
+Admiration
+入館料
+にゅうかんりょう
+Admission Fee
+養子
+ようし
+Adopted Child
+整理
+せいり
+Arrangement
+〜放題
+ほうだい
+As Much As...
+暗殺
+あんさつ
+Assassination
+銀行
+ぎんこう
+Bank
+初めに
+はじめに
+Beginning
+橋
+はし
+Bridge
+賞金
+しょうきん
+Cash Prize
+事情
+じじょう
+Circumstances
+器
+うつわ
+Container
+暗い
+くらい
+Dark
+器用
+きよう
+Dextrous
+疑問
+ぎもん
+Doubt
+酒好き
+さけずき
+Drinker
+飲み会
+のみかい
+Drinking P...
+熱心
+ねっしん
+Enthusiasm
+全然
+ぜんぜん
+Entirely
+皆様
+みなさま
+Everyone
+皆さん
+みなさん
+Everyone
+予想
+よそう
+Expectation
+表情
+ひょうじょう
+Facial Exp...
+料金
+りょうきん
+Fee
+感情
+かんじょう
+Feeling
+感じ
+かんじ
+Feeling
+熱
+ねつ
+Fever
+指先
+ゆびさき
+Fingertip
+〜様
+さま
+Formal Nam...
+初めて
+はじめて
+For The Fi...
+仲良く
+なかよく
+Friendly
+駅前
+えきまえ
+Front Of S...
+福島
+ふくしま
+Fukushima
+目標
+もくひょう
+Goal
+神様
+かみさま
+God
+女神
+めがみ
+Goddess
+仲良し
+なかよし
+Good Friend
+緑色
+みどりいろ
+Green
+緑
+みどり
+Green
+心願
+しんがん
+Heartfelt ...
+宿題
+しゅくだい
+Homework
+熱い
+あつい
+Hot Thing
+人情
+にんじょう
+Humanity
+億
+おく
+Hundred Mi...
+想定
+そうてい
+Hypothesis
+画像
+がぞう
+Image
+感想
+かんそう
+Impressions
+旅館
+りょかん
+Japanese Inn
+神風
+かみかぜ
+Kamikaze
+王様
+おうさま
+King
+左利き
+ひだりきき
+Left Handed
+小指
+こゆび
+Little Finger
+宿
+やど
+Lodging
+本館
+ほんかん
+Main Building
+暗記
+あんき
+Memorization
+水銀
+すいぎん
+Mercury
+中指
+なかゆび
+Middle Finger
+鏡
+かがみ
+Mirror
+映画
+えいが
+Movie
+殺人
+さつじん
+Murder
+楽器
+がっき
+Musical In...
+当然
+とうぜん
+Natural
+自然
+しぜん
+Nature
+一億
+いちおく
+One Hundre...
+一億円
+いちおくえん
+One Hundre...
+整然
+せいぜん
+Orderly
+情熱
+じょうねつ
+Passion
+体育
+たいいく
+PE Class
+映像
+えいぞう
+Picture
+情け
+なさけ
+Pity
+お願いします
+おねがいします
+Please Hel...
+詩
+し
+Poem
+詩人
+しじん
+Poet
+詩歌
+しいか
+Poetry
+練習
+れんしゅう
+Practice
+選手
+せんしゅ
+Pro Athlete
+問題
+もんだい
+Problem
+実感
+じっかん
+Realization
+大好き
+だいすき
+Really Like
+回想
+かいそう
+Retrospection
+右利き
+みぎきき
+Right Handed
+輪
+わ
+Ring
+学問
+がくもん
+Schooling
+課長
+かちょう
+Section Ma...
+新宿
+しんじゅく
+Shinjuku
+銀色
+ぎんいろ
+Silver
+銀
+ぎん
+Silver
+特選
+とくせん
+Special Se...
+駅
+えき
+Station
+駅長
+えきちょう
+Station Ma...
+自殺
+じさつ
+Suicide
+力士
+りきし
+Sumo Wrestler
+同感
+どうかん
+Sympathy
+食器
+しょっき
+Tableware
+感謝
+かんしゃ
+Thanks
+五感
+ごかん
+The Five S...
+思想
+しそう
+Thought
+親指
+おやゆび
+Thumb
+車輪
+しゃりん
+Tire
+謝る
+あやまる
+To Apologize
+感動する
+かんどうする
+To Be Emot...
+映る
+うつる
+To Be Refl...
+放れる
+はなれる
+To Be Rele...
+育てる
+そだてる
+To Bring Up
+追い付く
+おいつく
+To Catch U...
+選ぶ
+えらぶ
+To Choose
+感じる
+かんじる
+To Feel
+戦う
+たたかう
+To Fight
+養う
+やしなう
+To Foster
+手伝う
+てつだう
+To Help
+想像する
+そうぞうする
+To Imagine
+殺す
+ころす
+To Kill
+見返る
+みかえる
+To Look Ba...
+注文する
+ちゅうもんする
+To Order
+話題
+わだい
+Topic
+追いかける
+おいかける
+To Chase
+別れる
+わかれる
+To Separate
+共有する
+きょうゆうする
+To Share
+駅員
+えきいん
+Train Stat...
+様々
+さまざま
+Various

@@ -1,0 +1,422 @@
+<h2>Radicals</h2>
+高
+Tall
+<h2>Kanji</h2>
+諭
+ゆ
+Admonish
+随
+ずい
+All
+胡
+こ
+Barbarian
+搭
+とう
+Board
+錦
+にしき
+Brocade
+鯉
+こい
+Carp
+胞
+ほう
+Cell
+浄
+じょう
+Cleanse
+帥
+すい
+Commander
+諒
+りょう
+Comprehend
+蒙
+もう
+Darkness
+曙
+あけぼの
+Dawn
+惨
+さん
+Disaster
+稿
+こう
+Draft
+啓
+けい
+Enlighten
+披
+ひ
+Expose
+繊
+せん
+Fiber
+徐
+じょ
+Gently
+葵
+あおい
+Hollyhock
+騰
+とう
+Inflation
+据
+す
+Install
+莉
+り
+Jasmine
+緯
+い
+Latitude
+瓜
+か
+Melon
+虐
+ぎゃく
+Oppress
+戴
+たい
+Receive
+艇
+てい
+Rowboat
+丹
+たん
+Rust Colored
+緋
+ひ
+Scarlet
+准
+じゅん
+Semi
+舗
+ほ
+Shop
+壌
+じょう
+Soil
+駿
+しゅん
+Speed
+剰
+じょう
+Surplus
+寛
+かん
+Tolerance
+<h2>Vocabulary</h2>
+虐待
+ぎゃくたい
+Abuse
+軒並
+のきなみ
+Across The...
+稿料
+こうりょう
+Advance Fo...
+披露
+ひろう
+Announcement
+随時
+ずいじ
+At Any Time
+虐殺
+ぎゃくさつ
+Atrocity
+真鯉
+まごい
+Black Carp
+搭乗
+とうじょう
+Boarding
+競艇
+きょうてい
+Boat Race
+沸騰
+ふっとう
+Boiling
+同胞
+どうほう
+Brethren
+錦
+にしき
+Brocade
+搭載
+とうさい
+Built In
+鯉
+こい
+Carp
+細胞
+さいぼう
+Cell
+浄水
+じょうすい
+Clean Water
+襟元
+えりもと
+Collar
+錦鯉
+にしきごい
+Colored Carp
+総帥
+そうすい
+Commander
+頂
+いただき
+Crown
+残虐
+ざんぎゃく
+Cruelty
+惨敗
+ざんぱい
+Crushing F...
+胡瓜
+きゅうり
+Cucumber
+曙
+あけぼの
+Dawn
+枯れ木
+かれき
+Dead Tree
+繊細
+せんさい
+Delicate
+皮膚科
+ひふか
+Dermatology
+経緯
+けいい
+Details
+丹念
+たんねん
+Diligent
+惨事
+さんじ
+Disaster
+悲惨
+ひさん
+Disastrous
+惨状
+さんじょう
+Disastrous...
+啓蒙
+けいもう
+Enlightenment
+啓発
+けいはつ
+Enlightenment
+随筆
+ずいひつ
+Essays
+随所
+ずいしょ
+Everywhere
+過剰
+かじょう
+Excess
+玄人
+くろうと
+Expert
+脂身
+あぶらみ
+Fat Meat
+繊維
+せんい
+Fiber
+追随
+ついずい
+Follow
+元帥
+げんすい
+General Of...
+徐行
+じょこう
+Going Slowly
+徐々
+じょじょ
+Gradually
+本舗
+ほんぽ
+Head Office
+葵
+あおい
+Hollyhock
+頂戴
+ちょうだい
+Humbly Rec...
+緯度
+いど
+Latitude
+蓮根
+れんこん
+Lotus Root
+原稿
+げんこう
+Manuscript
+瓜
+うり
+Melon
+艦艇
+かんてい
+Military V...
+惨め
+みじめ
+Miserable
+蒙古
+もうこ
+Mongolia
+北緯
+ほくい
+Northern L...
+草稿
+そうこう
+Notes
+苗床
+なえどこ
+Nursery
+緯線
+いせん
+Parallel
+舗装
+ほそう
+Pavement
+清浄
+せいじょう
+Pure
+浄土
+じょうど
+Pure Land
+浄化
+じょうか
+Purification
+平壌
+へいじょう
+Pyongyang
+批准
+ひじゅん
+Ratification
+緋鯉
+ひごい
+Red Carp
+余剰
+よじょう
+Redundant
+啓示
+けいじ
+Revelation
+襟巻き
+えりまき
+Scarf
+苗木
+なえぎ
+Seedling
+自浄
+じじょう
+Self Purif...
+店舗
+てんぽ
+Shop
+舗
+ほ
+Shop
+胡座
+あぐら
+Sitting Cr...
+皮膚病
+ひふびょう
+Skin Disease
+土壌
+どじょう
+Soil
+南緯
+なんい
+Southern L...
+胞子
+ほうし
+Spore
+投稿
+とうこう
+Submission
+高騰
+こうとう
+Sudden Pri...
+急騰
+きゅうとう
+Sudden Rise
+暴騰
+ぼうとう
+Sudden Rise
+統帥
+とうすい
+Supreme Co...
+剰余金
+じょうよきん
+Surplus
+合繊
+ごうせん
+Synthetic ...
+化繊
+かせん
+Synthetic ...
+教諭
+きょうゆ
+Teacher
+諭す
+さとす
+To Admonish
+沸かす
+わかす
+To Boil
+挟まる
+はさまる
+To Get Bet...
+据える
+すえる
+To Install
+寛大
+かんだい
+Tolerance
+寛容
+かんよう
+Tolerance
+枯らす
+からす
+To Let Dry
+肯く
+うなずく
+To Nod
+虐げる
+しいたげる
+To Oppress
+寛ぐ
+くつろぐ
+To Relax
+召し上がる
+めしあがる
+To Respect...
+暴虐
+ぼうぎゃく
+Tyranny
+不浄
+ふじょう
+Uncleanliness
+随分
+ずいぶん
+Very
+洗浄
+せんじょう
+Washing
+西瓜
+すいか
+Watermelon
+渦巻き
+うずまき
+Whirlpool
+丹誠
+たんせい
+Working Ea...

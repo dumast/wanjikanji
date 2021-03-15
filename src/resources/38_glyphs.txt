@@ -1,0 +1,423 @@
+<h2>Radicals</h2>
+有
+Have
+辟
+Hot Pepper
+県
+Prefecture
+空
+Sky
+思
+Think
+歯
+Tooth
+<h2>Kanji</h2>
+伴
+はん
+Accompany
+齢
+れい
+Age
+宜
+よろ
+Best Regards
+賂
+ろ
+Bribe
+賄
+わい
+Bribe
+房
+ぼう
+Cluster
+慮
+りょ
+Consider
+託
+たく
+Consign
+却
+きゃく
+Contrary
+需
+じゅ
+Demand
+致
+ち
+Do
+避
+ひ
+Dodge
+描
+びょう
+Draw
+刊
+かん
+Edition
+逃
+とう
+Escape
+扱
+あつか
+Handle
+奥
+おく
+Interior
+併
+へい
+Join
+膝
+ひざ
+Knee
+傾
+けい
+Lean
+緩
+ゆる
+Loose
+奏
+そう
+Play Music
+妊
+にん
+Pregnant
+娠
+しん
+Pregnant
+贈
+ぞう
+Presents
+択
+たく
+Select
+還
+かん
+Send Back
+繰
+く
+Spin
+抑
+よく
+Suppress
+懸
+けん
+Suspend
+称
+しょう
+Title
+緒
+しょ
+Together
+盤
+ばん
+Tray
+<h2>Vocabulary</h2>
+馬鹿らしい
+ばからしい
+Absurd
+馬鹿馬鹿しい
+ばかばかしい
+Absurd
+頼み
+たのみ
+A Favor
+冷房
+れいぼう
+Air Condit...
+及び
+および
+As Well As
+舞踏会
+ぶとうかい
+Ball
+基盤
+きばん
+Base
+受託
+じゅたく
+Be Entrust...
+避妊
+ひにん
+Birth Control
+湯豆腐
+ゆどうふ
+Boiled Tofu
+賄賂
+わいろ
+Bribe
+贈収賄
+ぞうしゅうわい
+Bribery
+依頼人
+いらいにん
+Client
+房
+ふさ
+Cluster
+配慮
+はいりょ
+Consideration
+考慮
+こうりょ
+Consideration
+委託
+いたく
+Consign
+抑制
+よくせい
+Control
+日刊
+にっかん
+Daily Edition
+需要
+じゅよう
+Demand
+描写
+びょうしゃ
+Depiction
+奥底
+おくそこ
+Depths
+抑止
+よくし
+Deterrent
+円盤
+えんばん
+Disk
+併殺
+へいさつ
+Double Play
+描画
+びょうが
+Drawing
+懸命
+けんめい
+Eager
+高齢者
+こうれいしゃ
+Elderly Pe...
+逃亡
+とうぼう
+Escape
+避難
+ひなん
+Evacuation
+夕刊
+ゆうかん
+Evening Ed...
+奥
+おく
+Far Back
+致命的
+ちめいてき
+Fatal
+一人称
+いちにんしょう
+First Person
+全般的
+ぜんぱんてき
+General
+遺伝子
+いでんし
+Genes
+宜しい
+よろしい
+Good
+暖房
+だんぼう
+Heating
+膝
+ひざ
+Knee
+膝頭
+ひざがしら
+Kneecap
+緩い
+ゆるい
+Loose
+緩やか
+ゆるやか
+Loose
+明治維新
+めいじいしん
+Meiji Rest...
+併合
+へいごう
+Merger
+月刊
+げっかん
+Monthly Ed...
+朝刊
+ちょうかん
+Morning Ed...
+奏楽
+そうがく
+Musical Pe...
+演奏
+えんそう
+Musical Pe...
+奈良県
+ならけん
+Nara Prefe...
+必需品
+ひつじゅひん
+Necessities
+沖縄
+おきなわ
+Okinawa
+老齢
+ろうれい
+Old Age
+却って
+かえって
+On The Con...
+抑圧
+よくあつ
+Oppression
+一般的
+いっぱんてき
+Ordinary
+妊婦
+にんぷ
+Pregnant W...
+奥深い
+おくぶかい
+Profound
+生還
+せいかん
+Reaching H...
+却下
+きゃっか
+Rejection
+遠慮
+えんりょ
+Restraint
+返還
+へんかん
+Return
+還元
+かんげん
+Return To ...
+縄張り
+なわばり
+Rope Off
+内緒
+ないしょ
+Secret
+選択
+せんたく
+Selection
+対称
+たいしょう
+Symmetry
+お見舞い
+おみまい
+Sympathy V...
+傾向
+けいこう
+Tendency
+廃止する
+はいしする
+To Abolish
+同伴する
+どうはんする
+To Accompany
+伴う
+ともなう
+To Accompany
+避ける
+さける
+To Avoid
+傾く
+かたむく
+To Be Leaned
+妊娠する
+にんしんする
+To Be Preg...
+致す
+いたす
+To Do
+描く
+かく
+To Draw
+託す
+たくす
+To Entrust
+逃げる
+にげる
+To Escape
+超す
+こす
+To Exceed
+及ぼす
+およぼす
+To Exert
+一緒
+いっしょ
+Together
+贈る
+おくる
+To Give A ...
+扱う
+あつかう
+To Handle
+緩む
+ゆるむ
+To Loosen
+維持する
+いじする
+To Maintain
+一致する
+いっちする
+To Match
+賄う
+まかなう
+To Pay
+指摘する
+してきする
+To Point Out
+刊行する
+かんこうする
+To Publish
+頼る
+たよる
+To Rely On
+繰る
+くる
+To Spin
+懸ける
+かける
+To Stake
+踏み込む
+ふみこむ
+To Step Into
+伸ばす
+のばす
+To Stretch...
+降ろす
+おろす
+To Take Down
+乗り換える
+のりかえる
+To Transfer
+貿易会社
+ぼうえきがいしゃ
+Trading Firm
+盤
+ばん
+Tray
+信託
+しんたく
+Trust
+奥さん
+おくさん
+Wife
+仮称
+かしょう
+Working Name
+欠伸
+あくび
+Yawn
+年齢
+ねんれい
+Years Old

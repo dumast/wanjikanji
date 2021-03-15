@@ -1,0 +1,527 @@
+<h2>Radicals</h2>
+匚
+Cage
+<img class="radical-image" alt="cape" src="https://cdn.wanikani.com/subjects/images/8780-cape-large.png" />
+Cape
+云
+Cloud
+比
+Compare
+易
+Easy
+穴
+Hole
+ユ
+Hook
+馬
+Horse
+罒
+Net
+釆
+Sickle
+巳
+Snake
+合
+Suit
+殳
+Weapon
+<h2>Kanji</h2>
+答
+こた
+Answer
+反
+はん
+Anti
+君
+くん
+Buddy
+局
+きょく
+Bureau
+買
+か
+Buy
+雲
+くも
+Cloud
+楽
+らく
+Comfort
+数
+すう
+Count
+決
+けつ
+Decide
+絵
+え
+Drawing
+住
+じゅう
+Dwelling
+電
+でん
+Electricity
+森
+もり
+Forest
+助
+じょ
+Help
+馬
+ば
+Horse
+間
+かん
+Interval
+場
+じょう
+Location
+医
+い
+Medicine
+朝
+あさ
+Morning
+番
+ばん
+Number In ...
+所
+しょ
+Place
+池
+ち
+Pond
+究
+きゅう
+Research
+道
+どう
+Road
+役
+やく
+Service
+研
+けん
+Sharpen
+身
+しん
+Somebody
+者
+しゃ
+Someone
+支
+し
+Support
+話
+わ
+Talk
+投
+とう
+Throw
+対
+たい
+Versus
+<h2>Vocabulary</h2>
+地上
+ちじょう
+Above Ground
+住所
+じゅうしょ
+Address
+入所
+にゅうしょ
+Admission
+助言
+じょげん
+Advice
+全米
+ぜんべい
+All America
+思い出
+おもいで
+A Memory
+〜間
+かん
+Amount Of ...
+他所
+たしょ
+Another Place
+答え
+こたえ
+Answer
+助力
+じょりょく
+Assistance
+作者
+さくしゃ
+Author
+電池
+でんち
+Battery
+身
+み
+Body
+心身
+しんしん
+Body And Mind
+両者
+りょうしゃ
+Both People
+〜君
+くん
+Boy Name E...
+支局
+しきょく
+Branch Office
+支店
+してん
+Branch Office
+朝ごはん
+あさごはん
+Breakfast
+局
+きょく
+Bureau
+雲
+くも
+Cloud
+楽
+らく
+Comfort
+全く
+まったく
+Completely
+対立
+たいりつ
+Confrontation
+会話
+かいわ
+Conversation
+決
+けつ
+Decision
+決心
+けっしん
+Determination
+医者
+いしゃ
+Doctor
+役目
+やくめ
+Duty
+東口
+ひがしぐち
+East Exit
+電気
+でんき
+Electricity
+電力
+でんりょく
+Electric P...
+電子
+でんし
+Electron
+絵文字
+えもじ
+Emoji
+工学者
+こうがくしゃ
+Engineer
+入場
+にゅうじょう
+Entrance
+毎朝
+まいあさ
+Every Morning
+工場
+こうじょう
+Factory
+名所
+めいしょ
+Famous Place
+対外
+たいがい
+Foreign
+楽しい
+たのしい
+Fun
+北海道
+ほっかいどう
+Hokkaido
+馬
+うま
+Horse
+馬力
+ばりき
+Horsepower
+人間
+にんげん
+Human
+大役
+たいやく
+Important ...
+間
+あいだ
+Interval
+究明
+きゅうめい
+Investigation
+研究
+けんきゅう
+Research
+前回
+ぜんかい
+Last Time
+長さ
+ながさ
+Length
+生地
+きじ
+Material
+数学
+すうがく
+Mathematics
+医学
+いがく
+Medical Sc...
+医大
+いだい
+Medical Un...
+地中海
+ちちゅうかい
+Mediterran...
+〜道
+どう
+Method Of
+君主国
+くんしゅこく
+Monarchy
+朝
+あさ
+Morning
+朝日
+あさひ
+Morning Sun
+音楽
+おんがく
+Music
+名前
+なまえ
+Name
+当たり前
+あたりまえ
+Natural
+お知らせ
+おしらせ
+Notice
+番号
+ばんごう
+Number
+数
+かず
+Number
+一番
+いちばん
+Number One
+二番
+にばん
+Number Two
+数字
+すうじ
+Numeral
+次々
+つぎつぎ
+One By One
+反対
+はんたい
+Opposition
+向こう
+むこう
+Over There
+絵
+え
+Painting
+未決
+みけつ
+Pending
+私自身
+わたしじしん
+Personally
+投手
+とうしゅ
+Pitcher
+所
+ところ
+Place
+場所
+ばしょ
+Place
+点数
+てんすう
+Points
+交番
+こうばん
+Police Box
+池
+いけ
+Pond
+私立大学
+しりつだいがく
+Private Co...
+番組
+ばんぐみ
+Program
+役人
+やくにん
+Public Off...
+住人
+じゅうにん
+Resident
+道
+みち
+Road
+役
+やく
+Role
+学者
+がくしゃ
+Scholar
+数年
+すうねん
+Several Years
+歩道
+ほどう
+Sidewalk
+間もなく
+まもなく
+Soon
+出所
+しゅっしょ
+Release Fr...
+南米
+なんべい
+South America
+南口
+みなみぐち
+South Exit
+空間
+くうかん
+Space
+科目
+かもく
+Subject
+自決
+じけつ
+Suicide
+電話
+でんわ
+Telephone
+身体
+しんたい
+The Body
+人数
+にんずう
+The Number...
+この前
+このまえ
+The Other Day
+時間
+じかん
+Time
+答える
+こたえる
+To Answer
+曲がる
+まがる
+To Be Bent
+出来上がる
+できあがる
+To Be Fini...
+交じる
+まじる
+To Be Mixed
+曲げる
+まげる
+To Bend
+役に立つ
+やくにたつ
+To Be Useful
+買う
+かう
+To Buy
+対する
+たいする
+To Compare...
+数える
+かぞえる
+To Count
+決める
+きめる
+To Decide
+近づく
+ちかづく
+To Get Close
+当てる
+あてる
+To Guess
+助ける
+たすける
+To Help
+交わる
+まじわる
+To Intersect
+住む
+すむ
+To Live
+明日
+あした
+Tomorrow
+見直す
+みなおす
+To Reevaluate
+思い出す
+おもいだす
+To Remember
+走り回る
+はしりまわる
+To Run Around
+話す
+はなす
+To Speak
+支える
+ささえる
+To Support
+投げる
+なげる
+To Throw
+化ける
+ばける
+To Transform
+回す
+まわす
+To Turn
+点ける
+つける
+To Turn On
+向ける
+むける
+To Turn To...
+電車
+でんしゃ
+Train
+水道
+すいどう
+Water Supply
+全身
+ぜんしん
+Whole Body
+森
+もり
+Woods
+お前
+おまえ
+You
+君
+きみ
+You

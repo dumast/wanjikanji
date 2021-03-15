@@ -1,0 +1,522 @@
+<h2>Radicals</h2>
+也
+Alligator
+竹
+Bamboo
+巴
+Bed
+<img class="radical-image" alt="beggar" src="https://cdn.wanikani.com/subjects/images/8766-beggar-large.png" />
+Beggar
+支
+Branch
+車
+Car
+弋
+Ceremony
+厂
+Cliff
+耳
+Ear
+气
+Energy
+艹
+Flowers
+足
+Foot
+冖
+Forehead
+<img class="radical-image" alt="horns" src="https://cdn.wanikani.com/subjects/images/8767-horns-large.png" />
+Horns
+虫
+Insect
+ｲ
+Leader
+彳
+Loiter
+主
+Master
+寸
+Measurement
+不
+Not
+兀
+Pi
+皿
+Plate
+赤
+Red
+米
+Rice
+宀
+Roof
+士
+Samurai
+見
+See
+貝
+Shellfish
+<img class="radical-image" alt="spikes" src="https://cdn.wanikani.com/subjects/images/8768-spikes-large.png" />
+Spikes
+ネ
+Spirit
+糸
+Thread
+乚
+Umbrella
+世
+World
+<h2>Kanji</h2>
+竹
+たけ
+Bamboo
+車
+しゃ
+Car
+央
+おう
+Center
+写
+しゃ
+Copy
+仕
+し
+Doing
+耳
+みみ
+Ear
+早
+そう
+Early
+気
+き
+Energy
+平
+へい
+Flat
+花
+はな
+Flower
+足
+そく
+Foot
+打
+だ
+Hit
+百
+ひゃく
+Hundred
+氷
+こおり
+Ice
+虫
+むし
+Insect
+字
+じ
+Letter
+男
+だん
+Man
+主
+しゅ
+Master
+名
+めい
+Name
+不
+ふ
+Not
+号
+ごう
+Number
+他
+た
+Other
+去
+きょ
+Past
+皿
+さら
+Plate
+先
+せん
+Previous
+赤
+あか
+Red
+休
+きゅう
+Rest
+申
+もう
+Say Humbly
+見
+み
+See
+貝
+かい
+Shellfish
+石
+せき
+Stone
+代
+だい
+Substitute
+礼
+れい
+Thanks
+糸
+いと
+Thread
+町
+ちょう
+Town
+宝
+ほう
+Treasure
+村
+むら
+Village
+世
+せ
+World
+年
+ねん
+Year
+<h2>Vocabulary</h2>
+他人
+たにん
+Another Pe...
+早々
+そうそう
+As Soon As
+大気
+たいき
+Atmosphere
+赤ちゃん
+あかちゃん
+Baby
+竹
+たけ
+Bamboo
+竹の子
+たけのこ
+Bamboo Shoots
+太字
+ふとじ
+Bold Letter
+少年
+しょうねん
+Boy
+虫
+むし
+Bug
+年内
+ねんない
+By The End...
+子牛
+こうし
+Calf
+平気
+へいき
+Calm
+車
+くるま
+Car
+中央
+ちゅうおう
+Center
+字
+じ
+Character
+耳
+みみ
+Ear
+早い
+はやい
+Early
+元気
+げんき
+Energy
+名人
+めいじん
+Expert
+気分
+きぶん
+Feeling
+花火
+はなび
+Fireworks
+先ず
+まず
+First Of All
+一年生
+いちねんせい
+First Year...
+五百
+ごひゃく
+Five Hundred
+平ら
+たいら
+Flat
+花
+はな
+Flower
+足
+あし
+Foot
+四十
+よんじゅう
+Forty
+四百
+よんひゃく
+Four Hundred
+四日
+よっか
+Fourth Day
+四つ
+よっつ
+Four Things
+四千
+よんせん
+Four Thousand
+主人
+しゅじん
+Head Of Ho...
+休日
+きゅうじつ
+Holiday
+百
+ひゃく
+Hundred
+氷
+こおり
+Ice
+丸ごと
+まるごと
+In Its Ent...
+不正
+ふせい
+Injustice
+車内
+しゃない
+Inside The...
+宝石
+ほうせき
+Jewel
+先月
+せんげつ
+Last Month
+去年
+きょねん
+Last Year
+左手
+ひだりて
+Left Hand
+文字
+もじ
+Letter (Of...
+一代
+いちだい
+Lifetime
+主に
+おもに
+Mainly
+男
+おとこ
+Man
+仕方
+しかた
+Method
+百万
+ひゃくまん
+Million
+先々月
+せんせんげつ
+Month Befo...
+月見
+つきみ
+Moon Viewing
+名
+な
+Name
+号
+ごう
+Number
+一気
+いっき
+One Breath
+一打
+いちだ
+One Strike
+一本気
+いっぽんぎ
+One Track ...
+他
+ほか
+Other
+休止
+きゅうし
+Pause
+皿
+さら
+Plate
+人気
+にんき
+Popular
+切手
+きって
+Postage Stamp
+先
+さき
+Previous
+赤
+あか
+Red
+赤い
+あかい
+Red
+休み
+やすみ
+Rest
+右手
+みぎて
+Right Hand
+二世
+にせい
+Second Gen...
+本気
+ほんき
+Serious
+かき氷
+かきごおり
+Shaved Ice
+貝
+かい
+Shell
+不足
+ふそく
+Shortage
+小皿
+こざら
+Small Plate
+気
+き
+Spirit
+石
+いし
+Stone
+一文字
+いちもんじ
+Straight Line
+代用
+だいよう
+Substitution
+名字
+みょうじ
+Surname
+先生
+せんせい
+Teacher
+申し申し
+もうしもうし
+Telephone ...
+お礼
+おれい
+Thanks
+先日
+せんじつ
+The Other Day
+三世
+さんせい
+Third Gene...
+糸
+いと
+Thread
+引き分け
+ひきわけ
+Tie
+足りる
+たりる
+To Be Enough
+写る
+うつる
+To Be Phot...
+気に入る
+きにいる
+To Be Plea...
+見える
+みえる
+To Be Seen
+写す
+うつす
+To Copy
+見分ける
+みわける
+To Disting...
+出かける
+でかける
+To Go Out
+打つ
+うつ
+To Hit
+代わる
+かわる
+To Replace
+休む
+やすむ
+To Rest
+申す
+もうす
+To Say Humbly
+見る
+みる
+To See
+見せる
+みせる
+To Show
+町
+まち
+Town
+宝
+たから
+Treasure
+二十日
+はつか
+Twentieth Day
+二百
+にひゃく
+Two Hundred
+花見
+はなみ
+Viewing Ch...
+村
+むら
+Village
+村人
+むらびと
+Villager
+見方
+みかた
+Way Of Seeing
+天気
+てんき
+Weather
+平日
+へいじつ
+Weekdays
+白い
+しろい
+White
+世
+よ
+World
+年
+とし
+Year
+２０１１年
+にせんじゅういちねん
+Year 2011
+年中
+ねんじゅう
+Year Round

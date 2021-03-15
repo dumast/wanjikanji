@@ -1,0 +1,436 @@
+<h2>Radicals</h2>
+召
+Call
+化
+Change
+出
+Exit
+農
+Farming
+民
+Peoples
+而
+Rake
+代
+Substitute
+余
+Surplus
+<h2>Kanji</h2>
+怒
+ど
+Angry
+昇
+しょう
+Ascend
+迷
+めい
+Astray
+招
+しょう
+Beckon
+腹
+ふく
+Belly
+睡
+すい
+Drowsy
+康
+こう
+Ease
+端
+たん
+Edge
+極
+きょく
+Extreme
+郎
+ろう
+Guy
+健
+けん
+Healthy
+誘
+ゆう
+Invite
+貸
+か
+Lend
+惑
+わく
+Misguided
+痛
+つう
+Pain
+退
+たい
+Retreat
+途
+と
+Route
+給
+きゅう
+Salary
+就
+しゅう
+Settle In
+靴
+くつ
+Shoes
+眠
+みん
+Sleep
+暇
+か
+Spare Time
+段
+だん
+Steps
+胃
+い
+Stomach
+症
+しょう
+Symptom
+濃
+のう
+Thick
+締
+てい
+Tighten
+迫
+はく
+Urge
+訪
+ほう
+Visit
+織
+しき
+Weave
+悩
+なや
+Worry
+屈
+くつ
+Yield
+<h2>Vocabulary</h2>
+給与
+きゅうよ
+Allowance
+健忘症
+けんぼうしょう
+Amnesia
+南極
+なんきょく
+Antarctica
+訪問
+ほうもん
+A Visit
+悩み
+なやみ
+A Worry
+悪影響
+あくえいきょう
+Bad Influence
+野郎
+やろう
+Bastard
+腹
+はら
+Belly
+長靴
+ながぐつ
+Boots
+退屈
+たいくつ
+Boring
+着替え
+きがえ
+Change Of ...
+手掛かり
+てがかり
+Clue
+腰抜け
+こしぬけ
+Coward
+濃度
+のうど
+Density
+〜症
+しょう
+Disease
+お構いなく
+おかまいなく
+Don't Worr...
+頑張れ
+がんばれ
+Do Your Best
+端
+はし
+Edge
+効果的
+こうかてき
+Effective
+就業
+しゅうぎょう
+Employment
+極端
+きょくたん
+Extreme
+就職
+しゅうしょく
+Finding Em...
+段々
+だんだん
+Gradually
+中途半端
+ちゅうとはんぱ
+Half Finished
+頭痛
+ずつう
+Headache
+健康
+けんこう
+Health
+休暇
+きゅうか
+Holiday
+間抜け
+まぬけ
+Idiot
+不眠症
+ふみんしょう
+Insomnia
+居酒屋
+いざかや
+Izakaya
+昇進
+しょうしん
+Job Promotion
+大規模
+だいきぼ
+Large Scale
+早退
+そうたい
+Leave Early
+限定販売
+げんていはんばい
+Limited Ed...
+居間
+いま
+Living Room
+迷子
+まいご
+Lost Child
+迷路
+めいろ
+Maze
+両替
+りょうがえ
+Money Exch...
+結構です
+けっこうです
+No Thank You
+途中
+とちゅう
+On The Way
+組織
+そしき
+Organization
+痛い
+いたい
+Painful
+極楽
+ごくらく
+Paradise
+減給
+げんきゅう
+Pay Cut
+昇給
+しょうきゅう
+Pay Raise
+迫害
+はくがい
+Persecution
+圧迫
+あっぱく
+Pressure
+値段
+ねだん
+Price
+貸し切り
+かしきり
+Reserved
+引退
+いんたい
+Retire
+巻きずし
+まきずし
+Rolled Sushi
+切腹
+せっぷく
+Seppuku
+靴
+くつ
+Shoes
+靴屋
+くつや
+Shoe Store
+睡眠
+すいみん
+Sleep
+眠い
+ねむい
+Sleepy
+小規模
+しょうきぼ
+Small Scale
+靴下
+くつした
+Socks
+暇
+ひま
+Spare Time
+春巻き
+はるまき
+Spring Rolls
+段階
+だんかい
+Stage
+階段
+かいだん
+Stairs
+構え
+かまえ
+Stance
+胃
+い
+Stomach
+胃痛
+いつう
+Stomachache
+迷信
+めいしん
+Superstition
+供給
+きょうきゅう
+Supply
+症状
+しょうじょう
+Symptom
+誘惑
+ゆうわく
+Temptation
+第一段
+だいいちだん
+The First ...
+理屈
+りくつ
+Theory
+濃い
+こい
+Thick
+先端
+せんたん
+Tip
+逮捕する
+たいほする
+To Arrest
+昇る
+のぼる
+To Ascend
+招く
+まねく
+To Beckon
+退院する
+たいいんする
+To Be Disc...
+抜ける
+ぬける
+To Be Extr...
+隠れる
+かくれる
+To Be Hidden
+掛かる
+かかる
+To Be Hung
+惑う
+まどう
+To Be Misg...
+極める
+きわめる
+To Carry T...
+捕える
+とらえる
+To Catch
+取り替える
+とりかえる
+To Exchange
+怒る
+おこる
+To Get Angry
+迷う
+まよう
+To Get Lost
+手渡す
+てわたす
+To Hand Over
+誘う
+さそう
+To Invite
+招待する
+しょうたいする
+To Invite
+貸す
+かす
+To Lend
+締結する
+ていけつする
+To Ratify
+隠居する
+いんきょする
+To Retire
+退く
+しりぞく
+To Retreat
+見抜く
+みぬく
+To See Thr...
+抜き出す
+ぬきだす
+To Select
+就く
+つく
+To Settle In
+怒鳴る
+どなる
+To Shout At
+屈む
+かがむ
+To Stoop
+締める
+しめる
+To Tighten
+迫る
+せまる
+To Urge
+訪ねる
+たずねる
+To Visit
+織る
+おる
+To Weave
+悩む
+なやむ
+To Worry
+迷惑
+めいわく
+Trouble
+究極
+きゅうきょく
+Ultimate
+切迫
+せっぱく
+Urgency
+給料
+きゅうりょう
+Wages

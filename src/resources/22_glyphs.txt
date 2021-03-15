@@ -1,0 +1,470 @@
+<h2>Radicals</h2>
+能
+Ability
+充
+Allocate
+呂
+Bathtub
+安
+Cheap
+弗
+Dollar
+爰
+Football
+丬
+Icicle
+<h2>Kanji</h2>
+援
+えん
+Aid
+態
+たい
+Appearance
+誕
+たん
+Birth
+状
+じょう
+Condition
+賀
+が
+Congratula...
+各
+かく
+Each
+費
+ひ
+Expense
+姿
+し
+Figure
+勢
+せい
+Force
+諦
+てい
+Give Up
+示
+じ
+Indicate
+寝
+ね
+Lie Down
+営
+えい
+Manage
+坊
+ぼう
+Monk
+罰
+ばつ
+Penalty
+案
+あん
+Plan
+策
+さく
+Plan
+提
+てい
+Present
+置
+ち
+Put
+域
+いき
+Region
+応
+おう
+Respond
+宮
+みや
+Shinto Shrine
+袖
+しゅう
+Sleeve
+吸
+きゅう
+Suck
+過
+か
+Surpass
+領
+りょう
+Territory
+脱
+だつ
+Undress
+統
+とう
+Unite
+価
+か
+Value
+値
+ち
+Value
+副
+ふく
+Vice
+観
+かん
+View
+藤
+ふじ
+Wisteria
+<h2>Vocabulary</h2>
+副詞
+ふくし
+Adverb
+罰金
+ばっきん
+A Fine
+待機
+たいき
+Alert
+策
+さく
+A Plan
+反応
+はんのう
+A Response
+援助
+えんじょ
+Assistance
+態度
+たいど
+Attitude
+観客
+かんきゃく
+Audience
+赤ん坊
+あかんぼう
+Baby
+不機嫌
+ふきげん
+Bad Mood
+罰ゲーム
+ばつげーむ
+Batsu Game
+誕生
+たんじょう
+Birth
+失態
+しったい
+Blunder
+区域
+くいき
+Boundary
+坊主
+ぼうず
+Buddhist P...
+営業
+えいぎょう
+Business
+社費
+しゃひ
+Company Ex...
+状態
+じょうたい
+Condition
+消費
+しょうひ
+Consumption
+防犯
+ぼうはん
+Crime Prev...
+大勢
+おおぜい
+Crowd
+脱線
+だっせん
+Digression
+領域
+りょういき
+Domain
+各々
+おのおの
+Each
+各〜
+かく
+Each
+各地
+かくち
+Each Area
+各自
+かくじ
+Each Person
+評価
+ひょうか
+Evaluation
+費用
+ひよう
+Expenses
+経験者
+けいけんしゃ
+Experience...
+外観
+がいかん
+External A...
+姿
+すがた
+Figure
+勢い
+いきおい
+Force
+官営
+かんえい
+Government...
+案内
+あんない
+Guide
+大嫌い
+だいきらい
+Hate
+高血圧
+こうけつあつ
+High Blood...
+嫌味
+いやみ
+Hurtful Words
+観念
+かんねん
+Idea
+不可能
+ふかのう
+Impossible
+産業
+さんぎょう
+Industry
+勢力
+せいりょく
+Influence
+指示
+しじ
+Instructions
+対応
+たいおう
+Interaction
+寝不足
+ねぶそく
+Lack Of Sleep
+地価
+ちか
+Land Value
+領袖
+りょうしゅう
+Leader
+坊さん
+ぼうさん
+Monk
+昼寝
+ひるね
+Nap
+年賀状
+ねんがじょう
+New Year's...
+脱字
+だつじ
+Omitted Ch...
+態と
+わざと
+On Purpose
+機会
+きかい
+Opportunity
+寝坊
+ねぼう
+Oversleep
+宮
+みや
+Palace
+過去
+かこ
+Past
+罰
+ばつ
+Penalty
+変態
+へんたい
+Pervert
+政策
+せいさく
+Policy
+位置
+いち
+Position
+姿勢
+しせい
+Posture
+提出
+ていしゅつ
+Presentation
+大統領
+だいとうりょう
+President
+価格
+かかく
+Price
+物価
+ぶっか
+Prices
+私営
+しえい
+Private
+提案
+ていあん
+Proposition
+公営
+こうえい
+Public
+公示
+こうじ
+Public Ann...
+受領書
+じゅりょうしょ
+Receipt
+地域
+ちいき
+Region
+諦観
+ていかん
+Resignation
+市営
+しえい
+Run By The...
+県営
+けんえい
+Run By The...
+副業
+ふくぎょう
+Side Business
+観光
+かんこう
+Sightseeing
+袖
+そで
+Sleeve
+お土産
+おみやげ
+Souvenir
+主観
+しゅかん
+Subjectivity
+副題
+ふくだい
+Subtitle
+応援
+おうえん
+Support
+支援
+しえん
+Support
+尻尾
+しっぽ
+Tail
+脱税
+だつぜい
+Tax Evasion
+一応
+いちおう
+Tentatively
+領土
+りょうど
+Territory
+有り難う
+ありがとう
+Thank You
+非難する
+ひなんする
+To Criticize
+脱走する
+だっそうする
+To Escape
+過ぎる
+すぎる
+To Exceed
+存在する
+そんざいする
+To Exist
+倒れる
+たおれる
+To Get Kno...
+諦める
+あきらめる
+To Give Up
+お手洗い
+おてあらい
+Toilet
+示す
+しめす
+To Indicate
+飛ばす
+とばす
+To Let Fly
+確かめる
+たしかめる
+To Make Su...
+圧倒する
+あっとうする
+To Overwhelm
+罰する
+ばっする
+To Punish
+置く
+おく
+To Put Down
+在留する
+ざいりゅうする
+To Reside
+応じる
+おうじる
+To Respond
+営む
+いとなむ
+To Run A B...
+震える
+ふるえる
+To Shake
+寝る
+ねる
+To Sleep
+吸う
+すう
+To Smoke
+脱ぐ
+ぬぐ
+To Undress
+観る
+みる
+To View
+伝統
+でんとう
+Tradition
+面倒臭い
+めんどうくさい
+Troublesome
+案外
+あんがい
+Unexpectedly
+統合
+とうごう
+Unification
+嫌悪感
+けんおかん
+Unpleasant...
+価
+あたい
+Value
+価値
+かち
+Value
+値
+ね
+Value
+被害者
+ひがいしゃ
+Victim
+藤
+ふじ
+Wisteria
