@@ -86,8 +86,18 @@
   outline: none;
   border: none;
   background-color: #C91C1C;
+  color: white;
+  font-size: 70%;
 }
 
 .lesson:hover {
   background-color: #b61313;
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: white;
 }
