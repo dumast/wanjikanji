@@ -12,10 +12,13 @@ import {
 
 
 function App() {
+  //random variables declaration, to select a random radical / kanji / vocab from the whole 60 levels
+  const langtype = ['radicals', 'kanjis', 'vocab']
+  let type = langtype[Math.floor((Math.random()*3))];
+  console.log(type)
+  let num = Math.floor((Math.random()*60)+1);
 
-  let type = 'kanjis';
-  let num = '1';  
-
+  //fetch API
   const [data,setData] = useState([]);
 
   const getData = (type, num) => {
@@ -35,8 +38,8 @@ function App() {
     getData(type, num)
   }, [])
 
+  //random number in list
   let y = Math.floor((Math.random()*data.length));
-  console.log(data.length)
 
   return (
     <div className="App">
