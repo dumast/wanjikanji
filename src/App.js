@@ -12,21 +12,17 @@ import {
 
 function App() {
 
-  let y = 1;
-
   const [data,setData] = useState([]);
 
   const getData = () => {
-    fetch("./resources/kanjis_10.json", {
+    fetch("./resources/vocab_1.json", {
       headers: {
         'Content-Type': 'application/json',
         'Accept': 'application/json'
       }
     }).then((response) => {
-      console.log(response)
       return response.json();
     }).then((response) => {
-      console.log(response);
       setData(response);
     })
   }
@@ -34,6 +30,10 @@ function App() {
   useEffect(() => {
     getData()
   }, [])
+
+  let y = Math.floor((Math.random()*data.length));
+  console.log(data.length)
+
 
   return (
     <div className="App">
@@ -43,6 +43,7 @@ function App() {
           <Route path='/Lessons'><Lessons/></Route>
         </Switch>
       </Router>
+      <a href="/">Reload</a>
       {/* { */}
       {/*   data && data.length > 0 && data.map((item) => { */}
       {/*     return ( */}
@@ -54,15 +55,15 @@ function App() {
       {/*     )}) */}
       {/*   } */}
       <p>{
-        data && data.length > 0 && data[y-1].kanjis_kanji
+        data && data.length > 0 && data[y].kanji
       }
       -
       {
-        data && data.length > 0 && data[y-1].kanjis_kana
+        data && data.length > 0 && data[y].kana
       }
       -
       {
-        data && data.length > 0 && data[y-1].kanjis_romaji
+        data && data.length > 0 && data[y].romaji
       }</p>
     </div>
   );
