@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import './App.css';
 import Home from './Components/Home'
 import Lessons from './Components/Lessons'
+import Card from './Components/Card'
 import { 
   BrowserRouter as Router, 
   Route, 
@@ -12,10 +13,13 @@ import {
 
 function App() {
 
+  let type = 'radicals';
+  let num = '1';  
+
   const [data,setData] = useState([]);
 
-  const getData = () => {
-    fetch("./resources/vocab_1.json", {
+  const getData = (type, num) => {
+    fetch(`./resources/${type}_${num}.json`, {
       headers: {
         'Content-Type': 'application/json',
         'Accept': 'application/json'
@@ -28,12 +32,11 @@ function App() {
   }
 
   useEffect(() => {
-    getData()
+    getData(type, num)
   }, [])
 
   let y = Math.floor((Math.random()*data.length));
   console.log(data.length)
-
 
   return (
     <div className="App">
@@ -41,9 +44,9 @@ function App() {
         <Switch>
           <Route exact path='/'><Home/></Route> 
           <Route path='/Lessons'><Lessons/></Route>
+          <Route path='/Card'><Card/></Route>
         </Switch>
       </Router>
-      <a href="/">Reload</a>
       {/* { */}
       {/*   data && data.length > 0 && data.map((item) => { */}
       {/*     return ( */}
@@ -57,11 +60,9 @@ function App() {
       <p>{
         data && data.length > 0 && data[y].kanji
       }
-      -
       {
         data && data.length > 0 && data[y].kana
       }
-      -
       {
         data && data.length > 0 && data[y].romaji
       }</p>
