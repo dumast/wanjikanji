@@ -13,7 +13,7 @@ import {
 
 function App() {
 
-  let type = 'radicals';
+  let type = 'kanjis';
   let num = '1';  
 
   const [data,setData] = useState([]);
@@ -44,7 +44,8 @@ function App() {
         <Switch>
           <Route exact path='/'><Home/></Route> 
           <Route path='/Lessons'><Lessons/></Route>
-          <Route path='/Card'><Card/></Route>
+
+          <Route path='/Card'><Card kanji = {data && data.length > 0 && data[y].kanji} kana = {data && data.length > 0 && data[y].kana} romaji = {data && data.length > 0 && data[y].romaji}/></Route>
         </Switch>
       </Router>
       {/* { */}
@@ -57,7 +58,7 @@ function App() {
       {/*       </div> */}
       {/*     )}) */}
       {/*   } */}
-      <p className = "data">{
+      {/* <p className = "data">{
         data && data.length > 0 && data[y].kanji
       }
       {
@@ -65,7 +66,7 @@ function App() {
       }
       {
         data && data.length > 0 && data[y].romaji
-      }</p>
+      }</p> */}
     </div>
   );
 }

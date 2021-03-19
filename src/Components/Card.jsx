@@ -1,7 +1,7 @@
 import React from 'react'
 import Flippy, { FrontSide, BackSide } from 'react-flippy';
 
-export default function Card(){
+export default function Card(props){
 
 
     return(
@@ -13,10 +13,10 @@ export default function Card(){
             >
                 <FrontSide
                     >
-                    RICK
+                    <p>{props.kanji}</p>
                 </FrontSide>
                 <BackSide>
-                    ROCKS
+                    <p>{props.kana} {props.romaji}</p>
                 </BackSide>
             </Flippy>
         </div>
