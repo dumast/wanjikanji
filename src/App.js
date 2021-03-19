@@ -26,6 +26,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>Wanji-Kanji</h1>
       {/* { */}
       {/*   data && data.length > 0 && data.map((item) => { */}
       {/*     return ( */}
