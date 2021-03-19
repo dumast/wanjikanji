@@ -57,7 +57,7 @@ function App() {
       {/*       </div> */}
       {/*     )}) */}
       {/*   } */}
-      <p>{
+      <p className = "data">{
         data && data.length > 0 && data[y].kanji
       }
       {

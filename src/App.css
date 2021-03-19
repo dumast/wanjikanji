@@ -35,19 +35,20 @@
   background-color: rgb(20, 20, 20);
 }
 
-.flippy-cardContainer .flippy-card, .flippy-back{
-  margin: 0;
+.flippy-cardContainer .flippy-card{
+  position: absolute;
   width: 700px;
   height: 400px;
   border-radius: 15px;
-  background-color: #3BBBF1;
-  left: 40px;
-  right: 40px;
   margin: 0 auto;
+  left: 0;
+  right: 0;
+  background-color: #3BBBF1;
 }
 
-.flippy-front {
+.data {
   position: absolute;
-  top: 0;
-  left: 0;
+  left: 50px;
+  right: 50px;
+  margin: 500px auto;
 }
