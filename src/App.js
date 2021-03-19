@@ -1,12 +1,23 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
+import Home from './Components/Home'
+import Lessons from './Components/Lessons'
+import { 
+  BrowserRouter as Router, 
+  Route, 
+  Link, 
+  Switch 
+} from 'react-router-dom'; 
+
 
 function App() {
+
+  let y = 1;
 
   const [data,setData] = useState([]);
 
   const getData = () => {
-    fetch("./resources/kanjis_1.json", {
+    fetch("./resources/kanjis_10.json", {
       headers: {
         'Content-Type': 'application/json',
         'Accept': 'application/json'
@@ -26,6 +37,12 @@ function App() {
 
   return (
     <div className="App">
+      <Router>
+        <Switch>
+          <Route exact path='/'><Home/></Route> 
+          <Route path='/Lessons'><Lessons/></Route>
+        </Switch>
+      </Router>
       {/* { */}
       {/*   data && data.length > 0 && data.map((item) => { */}
       {/*     return ( */}
@@ -37,7 +54,15 @@ function App() {
       {/*     )}) */}
       {/*   } */}
       <p>{
-        data && data.length > 0 && data[1].kanjis_kanji
+        data && data.length > 0 && data[y-1].kanjis_kanji
+      }
+      -
+      {
+        data && data.length > 0 && data[y-1].kanjis_kana
+      }
+      -
+      {
+        data && data.length > 0 && data[y-1].kanjis_romaji
       }</p>
     </div>
   );
