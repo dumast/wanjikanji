@@ -1,12 +1,17 @@
 import React from 'react'
 import { 
-    Link
+    Link,
+    useHistory
   } from 'react-router-dom'; 
 
 export default function Back() {
+    const history = useHistory()
     return(
         <div>
-            <Link to = "/"><p className = "back">&lt;Back</p></Link>
+            <button className = "back" onClick={() => {history.goBack()}}>
+                &lt; Back
+            </button>
+            
         </div>
     )
 }

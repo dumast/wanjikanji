@@ -1,5 +1,6 @@
 import React from 'react'
 import Flippy, { FrontSide, BackSide } from 'react-flippy';
+import Back from './Back';
 
 export default function Card(props){
 
@@ -19,6 +20,10 @@ export default function Card(props){
                     <p>{props.kana} {props.romaji}</p>
                 </BackSide>
             </Flippy>
+            <Back/>
+            <p className = "data">
+                <a href = "/Card">Reload</a>
+            </p>
         </div>
     )
 }

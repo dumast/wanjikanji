@@ -27,8 +27,15 @@
 }
 
 .back {
-  display: inline-block;
+  position: fixed;
   color: white;
+  bottom: 30px;
+  right: 70px;
+  font-size: 50px;
+  background-color: rgba(255, 0, 0, 0);
+  outline: none;
+  border: none;
+  cursor: pointer;
 }
 
 ::selection {
@@ -44,4 +51,43 @@
   left: 0;
   right: 0;
   background-color: #3BBBF1;
+}
+
+.data {
+  position: fixed;
+  bottom: 0;
+  left: 70px;
+}
+
+.nav {
+  font-size: 0.5em;
+  margin: 0;
+  position: fixed;
+  top: 10px;
+  left: 20px;
+}
+
+.grid-container {
+  display: flexbox;
+  position: absolute;
+  right: 10%;
+  left: 10%;
+  top: 200px;
+  bottom: 200px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.lesson {
+  margin: 10px;
+  height: 150px;
+  width: 275px;
+  border-radius: 35px;
+  outline: none;
+  border: none;
+  background-color: #C91C1C;
+}
+
+.lesson:hover {
+  background-color: #b61313;
 }
