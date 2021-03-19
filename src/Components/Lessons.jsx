@@ -10,7 +10,6 @@ export default function Lessons() {
     for(i = 1; i<61; i++){
         buttons.push("Lesson " + i)
     }
-    console.log(buttons)
 
     return(
         <div>

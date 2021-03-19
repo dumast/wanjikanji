@@ -88,6 +88,7 @@
   background-color: #C91C1C;
   color: white;
   font-size: 70%;
+  transition: 0.2s;
 }
 
 .lesson:hover {
@@ -95,7 +96,7 @@
 }
 
 ::-webkit-scrollbar {
-  width: 15px;
+  width: 12px;
 }
 
 ::-webkit-scrollbar-thumb {
