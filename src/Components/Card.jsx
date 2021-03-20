@@ -18,7 +18,7 @@ export default function Card(props){
                 </FrontSide>
                 <BackSide>
                     <span className = "kanji">{props.kana}</span> 
-                    <span>{props.romaji}</span>
+                    <span> {props.romaji}</span>
                 </BackSide>
             </Flippy>
             <Back/>
