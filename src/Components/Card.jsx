@@ -6,7 +6,7 @@ export default function Card(props){
 
 
     return(
-        <div>
+        <div className = "card">
             <Flippy
                 flipOnHover={false} // default false
                 flipOnClick={true} // default false

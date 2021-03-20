@@ -13,8 +13,8 @@ import {
 function App() {
   //random variables declaration, to select a random radical / kanji / vocab from the whole 60 levels
   const langtype = ['radicals', 'kanjis', 'vocab']
-  let type = langtype[Math.floor((Math.random()*3))];
-  let num = Math.floor((Math.random()*60)+1);
+  const type = langtype[Math.floor((Math.random()*3))];
+  const num = Math.floor((Math.random()*60)+1);
 
   //fetch API
   const [data,setData] = useState([]);
@@ -38,8 +38,8 @@ function App() {
   }, [])
 
   //random number in list
-  let y = Math.floor((Math.random()*data.length));
-  console.log("Number: ", y)
+  const y = Math.floor((Math.random()*data.length));
+  console.log("Number: ", y+1)
 
   return (
     <div className="App">
@@ -47,7 +47,10 @@ function App() {
         <Switch>
           <Route exact path='/'><Home/></Route> 
           <Route path='/Lessons'><Lessons/></Route>
-          <Route path='/Card'><Card kanji = {data && data.length > 0 && data[y].kanji} kana = {data && data.length > 0 && data[y].kana} romaji = {data && data.length > 0 && data[y].romaji}/></Route>
+          <Route path='/Card'><Card 
+            kanji = {data && data.length > 0 && data[y].kanji} 
+            kana = {data && data.length > 0 && data[y].kana} 
+            romaji = {data && data.length > 0 && data[y].romaji}/></Route>
         </Switch>
       </Router>
       {/*
