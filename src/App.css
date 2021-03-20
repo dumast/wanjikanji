@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Kosugi&family=Source+Code+Pro:wght@200&display=swap');
+
 .App {
   text-align: center;
 }
@@ -51,6 +53,10 @@
   left: 0;
   right: 0;
   background-color: #3BBBF1;
+}
+
+.kanji {
+  font-family: 'Kosugi';
 }
 
 .data {

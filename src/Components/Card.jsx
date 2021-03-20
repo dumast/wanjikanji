@@ -14,10 +14,11 @@ export default function Card(props){
             >
                 <FrontSide
                     >
-                    <p>{props.kanji}</p>
+                    <span className = "kanji">{props.kanji}</span>
                 </FrontSide>
                 <BackSide>
-                    <p>{props.kana} {props.romaji}</p>
+                    <span className = "kanji">{props.kana}</span> 
+                    <span>{props.romaji}</span>
                 </BackSide>
             </Flippy>
             <Back/>
