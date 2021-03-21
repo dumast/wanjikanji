@@ -3,9 +3,10 @@ import Flippy, { FrontSide, BackSide } from 'react-flippy';
 import Back from './Back';
 
 export default function Card(props){
-    console.log("family: ", props.family)
+    console.log(props.family)
     return(
         <div className = "card">
+        <p className = "nav">Wanji-Kanji &gt; Lessons &gt; Lesson x &gt; type</p>
         <div className = {props.family}>
             <Flippy
                 flipOnHover={false} // default false

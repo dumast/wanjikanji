@@ -1,6 +1,10 @@
 import React from 'react'
 import Back from './Back'
+import Hub from './Hub'
 import { 
+    BrowserRouter as Router, 
+    Route, 
+    Switch,
     Link
   } from 'react-router-dom'; 
 
@@ -10,14 +14,14 @@ export default function Lessons() {
     for(i = 1; i<61; i++){
         buttons.push(i)
     }
-    let lessonnum = 0;
+    let num = 0;
     return(
         <div>
             <p className = "nav">Wanji-Kanji &gt; Lessons</p>
             <div className = "grid-container">
                 {buttons.map((item) => {
                     return(
-                    <Link to = "/Card"><button onClick = {() => lessonnum = item} className = "lesson">Lesson {item}</button></Link>
+                    <Link to = "/Hub"><button onClick = {() => num = item} className = "lesson">Lesson {item}</button></Link>
                     )
                 })}
             </div>

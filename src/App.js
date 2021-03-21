@@ -3,6 +3,7 @@ import './App.css';
 import Home from './Components/Home'
 import Lessons from './Components/Lessons'
 import Card from './Components/Card'
+import Hub from './Components/Hub'
 import { 
   BrowserRouter as Router, 
   Route, 
@@ -14,7 +15,6 @@ function App() {
   //random variables declaration, to select a random radical / kanji / vocab from the whole 60 levels
   const langtype = ['radicals', 'kanjis', 'vocab']
   const type = langtype[Math.floor((Math.random()*3))];
-  // const type = langtype[0]
   const num = Math.floor((Math.random()*60)+1);
 
   //fetch API
@@ -46,14 +46,17 @@ function App() {
     <div className="App">
       <Router>
         <Switch>
-          <Route exact path='/'><Home/></Route> 
-          <Route path='/Lessons'><Lessons/></Route>
-          <Route path='/Card'><Card 
-            family = {type}
-            kanji = {data && data.length > 0 && data[y].kanji} 
-            kana = {data && data.length > 0 && data[y].kana} 
-            romaji = {data && data.length > 0 && data[y].romaji}/>
+          <Route exact path='/' component = {Home}></Route> 
+          <Route path='/Lessons' component = {Lessons}></Route>
+          <Route path='/Card' component = {() => 
+            <Card 
+              family = {type} 
+              kanji = {data && data.length > 0 && data[y].kanji} 
+              kana = {data && data.length > 0 && data[y].kana} 
+              romaji = {data && data.length > 0 && data[y].romaji} 
+            />}>
           </Route>
+          <Route path="/Hub" component = {Hub}></Route>
         </Switch>
       </Router>
       {/*

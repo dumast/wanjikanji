@@ -100,7 +100,6 @@
 }
 
 .grid-container {
-  display: flexbox;
   position: absolute;
   right: 10%;
   left: 10%;
@@ -133,4 +132,44 @@
 
 ::-webkit-scrollbar-thumb {
   background: white;
+}
+
+.container {
+  margin-top: 30vh;
+}
+
+.hub {
+  outline: none;
+  border: none;
+  width: 350px;
+  height: 175px;
+  border-radius: 50px;
+  font-size: 50px;
+  color: white;
+  margin: 0 30px 60px 30px;
+  transition: 0s;
+}
+
+.rad {
+  background: #3BBBF1;
+}
+
+.rad:hover {
+  background: #2da9df;
+}
+
+.kan {
+  background: #FD37E9;
+}
+
+.kan:hover {
+  background: #dd24cb;
+}
+
+.voc {
+  background: #9236ED;
+}
+
+.voc:hover {
+  background: #832cda;
 }
