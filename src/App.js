@@ -14,6 +14,7 @@ function App() {
   //random variables declaration, to select a random radical / kanji / vocab from the whole 60 levels
   const langtype = ['radicals', 'kanjis', 'vocab']
   const type = langtype[Math.floor((Math.random()*3))];
+  // const type = langtype[0]
   const num = Math.floor((Math.random()*60)+1);
 
   //fetch API
@@ -48,9 +49,11 @@ function App() {
           <Route exact path='/'><Home/></Route> 
           <Route path='/Lessons'><Lessons/></Route>
           <Route path='/Card'><Card 
+            family = {type}
             kanji = {data && data.length > 0 && data[y].kanji} 
             kana = {data && data.length > 0 && data[y].kana} 
-            romaji = {data && data.length > 0 && data[y].romaji}/></Route>
+            romaji = {data && data.length > 0 && data[y].romaji}/>
+          </Route>
         </Switch>
       </Router>
       {/*

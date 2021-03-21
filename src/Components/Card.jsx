@@ -3,10 +3,10 @@ import Flippy, { FrontSide, BackSide } from 'react-flippy';
 import Back from './Back';
 
 export default function Card(props){
-
-
+    console.log("family: ", props.family)
     return(
         <div className = "card">
+        <div className = {props.family}>
             <Flippy
                 flipOnHover={false} // default false
                 flipOnClick={true} // default false
@@ -25,6 +25,7 @@ export default function Card(props){
             <p className = "data">
                 <a href = "/Card">Reload</a>
             </p>
+        </div>
         </div>
     )
 }
