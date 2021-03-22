@@ -1,10 +1,6 @@
 import React from 'react'
 import Back from './Back'
-import Hub from './Hub'
-import { 
-    BrowserRouter as Router, 
-    Route, 
-    Switch,
+import {
     Link
   } from 'react-router-dom'; 
 
@@ -14,7 +10,6 @@ export default function Lessons() {
     for(i = 1; i<61; i++){
         buttons.push(i)
     }
-    let num = 0;
     return(
         <div>
             <p className = "nav">Wanji-Kanji &gt; Lessons</p>
@@ -24,7 +19,7 @@ export default function Lessons() {
                     <Link to = {{
                         pathname:"/Hub",
                         state: {lesson: {item}}
-                    }}><button onClick = {() => num = item} className = "lesson">Lesson {item}</button></Link>
+                    }}><button className = "lesson">Lesson {item}</button></Link>
                         
                     )
                 })}

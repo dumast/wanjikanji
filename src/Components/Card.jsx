@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Flippy, { FrontSide, BackSide } from 'react-flippy';
 import Back from './Back';
-import {Link, useLocation} from "react-router-dom";
+import {useLocation} from "react-router-dom";
 
 export default function Card(props){
 
@@ -13,7 +13,6 @@ export default function Card(props){
     const [count,setCount] = useState(0);
 
     const getData = (type, lessonnum) => {
-    console.log("Lesson: ", lessonnum, "type: ", type)
     fetch(`./resources/${type}_${lessonnum}.json`, {
       headers: {
         'Content-Type': 'application/json',
@@ -28,18 +27,7 @@ export default function Card(props){
 
     useEffect(() => {
         getData(type, lessonnum)
-    }, [])
-
-    // if(count==0){
-    //     setCount([count + data.length])
-    // }
-    // else if (count>data.length){
-    //     setCount(0)
-    // }
-
-    const y = 0
-
-    console.log("data length", data.length)
+    })
 
     const kanji = data && data.length > 0 && data[count].kanji
     const kana = data && data.length > 0 && data[count].kana
@@ -64,7 +52,7 @@ export default function Card(props){
                 </BackSide>
             </Flippy>
             <button onClick = {() => {
-                if(count==0){
+                if(count===0){
                     setCount(data.length-1) 
                 }
                 else{
@@ -72,7 +60,7 @@ export default function Card(props){
             }
             className="previous">PREVIOUS</button>
             <button onClick = {() => {
-                if(count==data.length-1){
+                if(count===data.length-1){
                     setCount(0) 
                 }
                 else{
