@@ -93,8 +93,8 @@
   position: absolute;
   right: 10%;
   left: 10%;
-  top: 200px;
-  bottom: 200px;
+  top: 10%;
+  bottom: 15%;
   overflow-x: hidden;
   overflow-y: auto;
 }

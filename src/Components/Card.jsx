@@ -7,6 +7,9 @@ export default function Card(props){
 
     const imgMatch = /<img .*>/i;
     const cdnMatch = /src=".*"/i;
+
+
+
     let location = useLocation();
     const lessonnum = location.state.lessonnum.lessonnum
     const type = location.state.family
@@ -29,13 +32,18 @@ export default function Card(props){
 
     useEffect(() => {
         getData(type, lessonnum)
-    })
+    }, [])
 
     const kanji = data && data.length > 0 && data[count].kanji
     const kana = data && data.length > 0 && data[count].kana
     const romaji = data && data.length > 0 && data[count].romaji
 
-    console.log(kanji);
+    let src = null
+    if(kanji.toString().match(imgMatch)){
+        src = kanji.toString().match(cdnMatch)[0].match(/".*"/)[0].replace(/"/g, "")
+    }
+
+    console.log(src);
 
     return(
         <div className = "card">
@@ -48,7 +56,8 @@ export default function Card(props){
             >
                 <FrontSide
                     >
-                  <span className = "kanji">{kanji}</span>
+                        {src ? <img className="kanji" src={src} /> : <span className = "kanji">{kanji}</span>}
+                  
                 </FrontSide>
                 <BackSide>
                     <span className = "kanji">{kana}</span> 
