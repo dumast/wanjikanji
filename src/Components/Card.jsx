@@ -53,7 +53,7 @@ export default function Card(props){
             </Flippy>
             <button onClick = {() => {
                 if(count===0){
-                    setCount(data.length-1) 
+                    setCount(0) 
                 }
                 else{
                 setCount(count - 1)}}
@@ -61,7 +61,7 @@ export default function Card(props){
             className="previous">PREVIOUS</button>
             <button onClick = {() => {
                 if(count===data.length-1){
-                    setCount(0) 
+                    setCount(data.length-1) 
                 }
                 else{
                 setCount(count + 1)}}
