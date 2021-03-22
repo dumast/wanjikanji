@@ -5,6 +5,8 @@ import {useLocation} from "react-router-dom";
 
 export default function Card(props){
 
+    const imgMatch = /<img .*>/i;
+    const cdnMatch = /src=".*"/i;
     let location = useLocation();
     const lessonnum = location.state.lessonnum.lessonnum
     const type = location.state.family
@@ -33,6 +35,8 @@ export default function Card(props){
     const kana = data && data.length > 0 && data[count].kana
     const romaji = data && data.length > 0 && data[count].romaji
 
+    console.log(kanji);
+
     return(
         <div className = "card">
         <p className = "nav">Wanji-Kanji &gt; Lessons &gt; Lesson {lessonnum} &gt; {type} {count+1}</p>
@@ -44,7 +48,7 @@ export default function Card(props){
             >
                 <FrontSide
                     >
-                    <span className = "kanji">{kanji}</span>
+                  <span className = "kanji">{kanji}</span>
                 </FrontSide>
                 <BackSide>
                     <span className = "kanji">{kana}</span> 
