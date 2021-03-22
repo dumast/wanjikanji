@@ -54,10 +54,6 @@
   background-color: #000000;
 }
 
-.flippy-front, .flippy-back {
-  transition-property: transform;
-}
-
 .radicals .flippy-card{
   background-color: #3BBBF1;
 }
@@ -83,12 +79,6 @@
 
 .kanji {
   font-family: 'Kosugi';
-}
-
-.data {
-  position: fixed;
-  bottom: 0;
-  left: 70px;
 }
 
 .nav {
@@ -172,4 +162,40 @@
 
 .voc:hover {
   background: #832cda;
+}
+
+.previous {
+  width: 170px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-350px, 10px);
+  font-size: 30px;
+  border-radius: 50px;
+  color: white;
+  background-color: rgba(255, 0, 0, 0);
+  outline: none;
+  border: solid 2px;
+  transition: 0.1s;
+}
+
+.previous:hover {
+  background-color: rgb(75, 75, 75);
+}
+
+.next {
+  width: 170px;
+  position: absolute;
+  left: 50%;
+  transform: translate(180px, 10px);
+  font-size: 30px;
+  border-radius: 50px;
+  color: white;
+  background-color: rgba(255, 0, 0, 0);
+  outline: none;
+  border: solid 2px;
+  transition: 0.1s;
+}
+
+.next:hover {
+  background-color: rgb(75, 75, 75);
 }

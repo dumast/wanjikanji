@@ -19,11 +19,11 @@ export default function Hub(){
                 <Link to = {{
                     pathname:'/Card',
                     state: {lessonnum: {lessonnum}, family: 'kanjis'}}}>
-                    <button class="hub kan">Radicals</button></Link>
+                    <button class="hub kan">Kanjis</button></Link>
                 <Link to = {{
                     pathname:'/Card',
                     state: {lessonnum: {lessonnum}, family: 'vocab'}}}>
-                    <button class="hub voc">Radicals</button></Link>
+                    <button class="hub voc">Vocabulary</button></Link>
             </div>
             <Back/>
         </div>

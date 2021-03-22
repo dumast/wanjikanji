@@ -10,6 +10,7 @@ export default function Card(props){
     const type = location.state.family
 
     const [data,setData] = useState([]);
+    const [count,setCount] = useState(0);
 
     const getData = (type, lessonnum) => {
     console.log("Lesson: ", lessonnum, "type: ", type)
@@ -29,15 +30,24 @@ export default function Card(props){
         getData(type, lessonnum)
     }, [])
 
+    // if(count==0){
+    //     setCount([count + data.length])
+    // }
+    // else if (count>data.length){
+    //     setCount(0)
+    // }
+
     const y = 0
 
-    const kanji = data && data.length > 0 && data[y].kanji
-    const kana = data && data.length > 0 && data[y].kana
-    const romaji = data && data.length > 0 && data[y].romaji
+    console.log("data length", data.length)
+
+    const kanji = data && data.length > 0 && data[count].kanji
+    const kana = data && data.length > 0 && data[count].kana
+    const romaji = data && data.length > 0 && data[count].romaji
 
     return(
         <div className = "card">
-        <p className = "nav">Wanji-Kanji &gt; Lessons &gt; Lesson {lessonnum} &gt; {type}</p>
+        <p className = "nav">Wanji-Kanji &gt; Lessons &gt; Lesson {lessonnum} &gt; {type} {count+1}</p>
         <div className = {location.state.family}>
             <Flippy
                 flipOnHover={false} // default false
@@ -53,10 +63,23 @@ export default function Card(props){
                     <span> {romaji}</span>
                 </BackSide>
             </Flippy>
+            <button onClick = {() => {
+                if(count==0){
+                    setCount(data.length-1) 
+                }
+                else{
+                setCount(count - 1)}}
+            }
+            className="previous">PREVIOUS</button>
+            <button onClick = {() => {
+                if(count==data.length-1){
+                    setCount(0) 
+                }
+                else{
+                setCount(count + 1)}}
+            }
+            className="next">NEXT</button>
             <Back/>
-            <p className = "data">
-                <a href = "/Card">Reload</a>
-            </p>
         </div>
         </div>
     )
