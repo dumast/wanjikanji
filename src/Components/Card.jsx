@@ -2,15 +2,16 @@ import React, { useEffect, useState } from 'react';
 import Flippy, { FrontSide, BackSide } from 'react-flippy';
 import Back from './Back';
 import {useLocation} from "react-router-dom";
+import Arrow1 from  '../SVG/Arrow1.svg'
+import Arrow2 from '../SVG/Arrow2.svg'
 
 export default function Card(props){
 
     const imgMatch = /<img .*>/i;
     const cdnMatch = /src=".*"/i;
 
-
-
     let location = useLocation();
+
     const lessonnum = location.state.lessonnum.lessonnum
     const type = location.state.family
 
@@ -48,7 +49,7 @@ export default function Card(props){
     return(
         <div className = "card">
         <p className = "nav">Wanji-Kanji &gt; Lessons &gt; Lesson {lessonnum} &gt; {type} {count+1}</p>
-        <div className = {location.state.family}>
+        <div className = {type}>
             <Flippy
                 flipOnHover={false} // default false
                 flipOnClick={true} // default false
@@ -64,22 +65,24 @@ export default function Card(props){
                     <span> {romaji}</span>
                 </BackSide>
             </Flippy>
-            <button onClick = {() => {
+            <img onClick = {() => {
                 if(count===0){
                     setCount(0) 
                 }
                 else{
                 setCount(count - 1)}}
-            }
-            className="previous">PREVIOUS</button>
-            <button onClick = {() => {
+            }className = "previous" src={Arrow1}></img>
+
+            <img onClick = {() => {
                 if(count===data.length-1){
                     setCount(data.length-1) 
                 }
                 else{
                 setCount(count + 1)}}
-            }
-            className="next">NEXT</button>
+            }className = "next" src={Arrow2}></img>
+
+            <button className = "first" onClick={()=> setCount(0)}>First</button>
+            <button className = "last" onClick={()=> setCount(data.length-1)}>Last</button>
             <Back/>
         </div>
         </div>

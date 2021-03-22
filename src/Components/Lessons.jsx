@@ -17,7 +17,7 @@ export default function Lessons() {
                 {buttons.map((item) => {
                     return(
                     <Link to = {{
-                        pathname:"/Hub",
+                        pathname:`Hub`,
                         state: {lesson: {item}}
                     }}><button className = "lesson">Lesson {item}</button></Link>
                         

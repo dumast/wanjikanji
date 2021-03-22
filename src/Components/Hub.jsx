@@ -14,15 +14,18 @@ export default function Hub(){
             <div className = "container">
                 <Link to = {{
                     pathname:'/Card',
-                    state: {lessonnum: {lessonnum}, family: 'radicals'}}}>
+                    state: {lessonnum: {lessonnum}, family: 'radicals'},
+                    }}> 
                     <button class="hub rad">Radicals</button></Link>
                 <Link to = {{
                     pathname:'/Card',
-                    state: {lessonnum: {lessonnum}, family: 'kanjis'}}}>
+                    state: {lessonnum: {lessonnum}, family: 'kanjis'},
+                    }}>
                     <button class="hub kan">Kanjis</button></Link>
                 <Link to = {{
                     pathname:'/Card',
-                    state: {lessonnum: {lessonnum}, family: 'vocab'}}}>
+                    state: {lessonnum: {lessonnum}, family: 'vocab'},
+                    }}>
                     <button class="hub voc">Vocabulary</button></Link>
             </div>
             <Back/>

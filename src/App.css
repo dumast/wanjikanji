@@ -77,6 +77,10 @@
   height: 70vh;
 }
 
+.flippy-front:hover, .flippy-back:hover {
+  cursor: pointer;
+}
+
 .kanji {
   font-family: 'Kosugi';
 }
@@ -165,6 +169,39 @@
 }
 
 .previous {
+  width: 100px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-470px, -280px);
+  font-size: 30px;
+  border-radius: 50px;
+  color: white;
+  background-color: rgba(255, 0, 0, 0);
+  outline: none;
+  border: none;
+  transition: 0.05s;
+}
+
+.next {
+  width: 100px;
+  position: absolute;
+  left: 50%;
+  transform: translate(370px, -280px);
+  font-size: 30px;
+  border-radius: 50px;
+  color: white;
+  background-color: rgba(255, 0, 0, 0);
+  outline: none;
+  border: nonex;
+  transition: 0.1s;
+}
+
+.first:hover, .last:hover {
+  background-color: rgb(75, 75, 75);
+  cursor: pointer;
+}
+
+.first {
   width: 170px;
   position: absolute;
   left: 50%;
@@ -178,11 +215,7 @@
   transition: 0.1s;
 }
 
-.previous:hover {
-  background-color: rgb(75, 75, 75);
-}
-
-.next {
+.last {
   width: 170px;
   position: absolute;
   left: 50%;
@@ -196,6 +229,26 @@
   transition: 0.1s;
 }
 
-.next:hover {
-  background-color: rgb(75, 75, 75);
+.previous:hover, .next:hover{
+  cursor: pointer;
+}
+
+.previous:hover{
+  width: 102px;
+  transform: translate(-470px, -282px);
+}
+
+.previous:active{
+  width: 98px;
+  transform: translate(-470px, -278px);
+}
+
+.next:hover{
+  width: 102px;
+  transform: translate(370px, -282px);
+}
+
+.next:active{
+  width: 98px;
+  transform: translate(370px, -278px);
 }

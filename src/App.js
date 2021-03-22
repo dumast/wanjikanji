@@ -23,9 +23,8 @@ function App() {
         <Switch>
           <Route exact path='/' component = {Home}></Route> 
           <Route path='/Lessons' component = {Lessons}></Route>
-          <Route path='/Card' component = {Card}>
-          </Route>
           <Route path="/Hub" component = {Hub}></Route>
+          <Route path='/Card' component = {Card}></Route>
         </Switch>
       </Router>
     </div>
