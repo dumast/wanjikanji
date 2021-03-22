@@ -6,7 +6,7 @@ import Arrow1 from  '../SVG/Arrow1.svg'
 import Arrow2 from '../SVG/Arrow2.svg'
 
 export default function Card(props){
-
+    
     const imgMatch = /<img .*>/i;
     const cdnMatch = /src=".*"/i;
 
@@ -44,11 +44,9 @@ export default function Card(props){
         src = kanji.toString().match(cdnMatch)[0].match(/".*"/)[0].replace(/"/g, "")
     }
 
-    console.log(src);
-
     return(
         <div className = "card">
-        <p className = "nav">Wanji-Kanji &gt; Lessons &gt; Lesson {lessonnum} &gt; {type} {count+1}</p>
+        <p className = "nav">Wanji-Kanji &gt; Lessons &gt; Lesson {lessonnum} &gt; {type} {count+1} / {data.length}</p>
         <div className = {type}>
             <Flippy
                 flipOnHover={false} // default false
