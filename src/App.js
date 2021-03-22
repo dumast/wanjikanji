@@ -50,7 +50,6 @@ function App() {
           <Route path='/Lessons' component = {Lessons}></Route>
           <Route path='/Card' component = {() => 
             <Card 
-              family = {type} 
               kanji = {data && data.length > 0 && data[y].kanji} 
               kana = {data && data.length > 0 && data[y].kana} 
               romaji = {data && data.length > 0 && data[y].romaji} 
@@ -59,28 +58,6 @@ function App() {
           <Route path="/Hub" component = {Hub}></Route>
         </Switch>
       </Router>
-      {/*
-      {/*   data && data.length > 0 && data.map((item) => { */}
-      {/*     return ( */}
-      {/*       <div> */}
-      {/*         <p>{item.kanjis_kanji}</p> */}
-      {/*         <p>{item.kanjis_kana}</p> */}
-      {/*         <p>{item.kanjis_romaji}</p> */}
-      {/*       </div> */}
-      {/*     )}) */}
-      {/*   } */}
-      {/* <p className = "data">
-        <a href = "/Card"></a>
-      {
-        data && data.length > 0 && data[y].kanji
-      }
-      {
-        data && data.length > 0 && data[y].kana
-      }
-      {
-        data && data.length > 0 && data[y].romaji
-      }
-      </p> */}
     </div>
   );
 }

@@ -1,13 +1,16 @@
 import React from 'react'
 import Flippy, { FrontSide, BackSide } from 'react-flippy';
 import Back from './Back';
+import {Link, useLocation} from "react-router-dom";
 
 export default function Card(props){
-    console.log(props.family)
+    let location = useLocation();
+    const lessonnum = location.state.lessonnum.lessonnum
+    const type = location.state.family
     return(
         <div className = "card">
-        <p className = "nav">Wanji-Kanji &gt; Lessons &gt; Lesson x &gt; type</p>
-        <div className = {props.family}>
+        <p className = "nav">Wanji-Kanji &gt; Lessons &gt; Lesson {lessonnum} &gt; {type}</p>
+        <div className = {location.state.family}>
             <Flippy
                 flipOnHover={false} // default false
                 flipOnClick={true} // default false

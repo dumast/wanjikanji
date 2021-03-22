@@ -21,7 +21,11 @@ export default function Lessons() {
             <div className = "grid-container">
                 {buttons.map((item) => {
                     return(
-                    <Link to = "/Hub"><button onClick = {() => num = item} className = "lesson">Lesson {item}</button></Link>
+                    <Link to = {{
+                        pathname:"/Hub",
+                        state: {lesson: {item}}
+                    }}><button onClick = {() => num = item} className = "lesson">Lesson {item}</button></Link>
+                        
                     )
                 })}
             </div>
