@@ -70,7 +70,6 @@ export default function Card(props){
                 else{
                 setCount(count - 1)}}
             }className = "previous" src={Arrow1}></img>
-
             <img onClick = {() => {
                 if(count===data.length-1){
                     setCount(data.length-1) 
@@ -78,9 +77,9 @@ export default function Card(props){
                 else{
                 setCount(count + 1)}}
             }className = "next" src={Arrow2}></img>
-
             <button className = "first" onClick={()=> setCount(0)}>First</button>
             <button className = "last" onClick={()=> setCount(data.length-1)}>Last</button>
+            <button className = "shuffle" onClick = {()=> setCount(Math.floor(Math.random() * data.length-1)+1)}>Shuffle</button>
             <Back/>
         </div>
         </div>

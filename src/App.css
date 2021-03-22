@@ -196,7 +196,7 @@
   transition: 0.1s;
 }
 
-.first:hover, .last:hover {
+.first:hover, .last:hover, .shuffle:hover {
   background-color: rgb(75, 75, 75);
   cursor: pointer;
 }
@@ -220,6 +220,20 @@
   position: absolute;
   left: 50%;
   transform: translate(180px, 10px);
+  font-size: 30px;
+  border-radius: 50px;
+  color: white;
+  background-color: rgba(255, 0, 0, 0);
+  outline: none;
+  border: solid 2px;
+  transition: 0.1s;
+}
+
+.shuffle{
+  width: 170px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-85px, 10px);
   font-size: 30px;
   border-radius: 50px;
   color: white;
