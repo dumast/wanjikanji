@@ -98,7 +98,10 @@ export default function Card(props){
             }className = "next" src={Arrow2}></img>
             <button className = "first" onClick={()=> setCount(0)}>First</button>
             <button className = "last" onClick={()=> setCount(data.length-1)}>Last</button>
-            <button className = "shuffle" onClick = {()=> setData(shuffle(data))}>Shuffle</button>
+            <button className = "shuffle" onClick = {()=> {
+                setData(shuffle(data))
+                count!=0?setCount(0):setCount(1)
+                }}>Shuffle</button>
             <Back/>
         </div>
         </div>
