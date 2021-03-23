@@ -33,7 +33,7 @@ export default function Card(props){
 
     useEffect(() => {
         getData(type, lessonnum)
-    }, [])    
+    }, [type, lessonnum])    
 
     function shuffle(array) {
         var currentIndex = array.length, temporaryValue, randomIndex;
@@ -59,8 +59,10 @@ export default function Card(props){
     const romaji = data && data.length > 0 && data[count].romaji
 
     let src = null
+    let alt = null
     if(kanji.toString().match(imgMatch)){
         src = kanji.toString().match(cdnMatch)[0].match(/".*"/)[0].replace(/"/g, "")
+        alt = kanji.toString().replace(cdnMatch, "").match(/alt=".*"/)[0].match(/".*"/)[0].replace(/"/g, "");
     }
 
     return(
@@ -74,7 +76,7 @@ export default function Card(props){
             >
                 <FrontSide
                     >
-                        {src ? <img className="kanji" src={src} /> : <span className = "kanji">{kanji}</span>}
+                        {src ? <img className="kanji" src={src} alt={alt}/> : <span className = "kanji">{kanji}</span>}
                   
                 </FrontSide>
                 <BackSide>
@@ -88,19 +90,19 @@ export default function Card(props){
                 }
                 else{
                 setCount(count - 1)}}
-            }className = "previous" src={Arrow1}></img>
+            }className = "previous" src={Arrow1} alt="back-button"></img>
             <img onClick = {() => {
                 if(count===data.length-1){
                     setCount(data.length-1) 
                 }
                 else{
                 setCount(count + 1)}}
-            }className = "next" src={Arrow2}></img>
+            }className = "next" src={Arrow2} alt="forward-button"></img>
             <button className = "first" onClick={()=> setCount(0)}>First</button>
             <button className = "last" onClick={()=> setCount(data.length-1)}>Last</button>
             <button className = "shuffle" onClick = {()=> {
                 setData(shuffle(data))
-                count!=0?setCount(0):setCount(1)
+                count!== 0?setCount(0):setCount(1)
                 }}>Shuffle</button>
             <Back/>
         </div>
