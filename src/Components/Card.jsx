@@ -35,6 +35,25 @@ export default function Card(props){
         getData(type, lessonnum)
     }, [])    
 
+    function shuffle(array) {
+        var currentIndex = array.length, temporaryValue, randomIndex;
+      
+        // While there remain elements to shuffle...
+        while (0 !== currentIndex) {
+      
+          // Pick a remaining element...
+          randomIndex = Math.floor(Math.random() * currentIndex);
+          currentIndex -= 1;
+      
+          // And swap it with the current element.
+          temporaryValue = array[currentIndex];
+          array[currentIndex] = array[randomIndex];
+          array[randomIndex] = temporaryValue;
+        }
+      
+        return array;
+      }
+
     const kanji = data && data.length > 0 && data[count].kanji
     const kana = data && data.length > 0 && data[count].kana
     const romaji = data && data.length > 0 && data[count].romaji
@@ -79,7 +98,7 @@ export default function Card(props){
             }className = "next" src={Arrow2}></img>
             <button className = "first" onClick={()=> setCount(0)}>First</button>
             <button className = "last" onClick={()=> setCount(data.length-1)}>Last</button>
-            <button className = "shuffle" onClick = {()=> setCount(Math.floor(Math.random() * data.length-1)+1)}>Shuffle</button>
+            <button className = "shuffle" onClick = {()=> setData(shuffle(data))}>Shuffle</button>
             <Back/>
         </div>
         </div>
