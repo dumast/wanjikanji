@@ -4,6 +4,18 @@
   text-align: center;
 }
 
+@media only screen and (max-width: 600px) {
+  body {
+    zoom: 40%;
+  }
+}
+
+@media only screen and (max-height: 600px) {
+  body {
+    zoom: 60%;
+  }
+}
+
 .lessons {
   font-size: 100px;
   color: white;

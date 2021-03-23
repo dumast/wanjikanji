@@ -33,7 +33,7 @@ export default function Card(props){
 
     useEffect(() => {
         getData(type, lessonnum)
-    }, [])
+    }, [])    
 
     const kanji = data && data.length > 0 && data[count].kanji
     const kana = data && data.length > 0 && data[count].kana
