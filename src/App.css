@@ -278,3 +278,10 @@
   width: 98px;
   transform: translate(370px, -278px);
 }
+
+.wanikani{
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 0)
+}
