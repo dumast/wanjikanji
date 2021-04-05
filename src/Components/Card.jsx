@@ -57,9 +57,8 @@ export default function Card(props){
     const kanji = data && data.length > 0 && data[count].kanji
     const kana = data && data.length > 0 && data[count].kana
     const romaji = data && data.length > 0 && data[count].romaji
-
-    let src = null
-    let alt = null
+    let src;
+    let alt;
     if(kanji.toString().match(imgMatch)){
         src = kanji.toString().match(cdnMatch)[0].match(/".*"/)[0].replace(/"/g, "")
         alt = kanji.toString().replace(cdnMatch, "").match(/alt=".*"/)[0].match(/".*"/)[0].replace(/"/g, "");

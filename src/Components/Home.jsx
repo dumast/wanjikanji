@@ -8,7 +8,7 @@ export default function Home() {
         <div>
             <h1>Wanji-Kanji</h1>
                 <Link to = "/Lessons"><button className = 'lessons'>Lessons</button></Link>
-            <h6 className = "wanikani"><a href = "https://wanikani.com" target="_blank">WaniKani.com</a> (non affiliated)</h6>
+            <h6 className = "wanikani"><a href = "https://wanikani.com" target="_blank" rel="noreferrer">WaniKani.com</a> (non affiliated)</h6>
         </div>
     )
 }
