@@ -65,46 +65,48 @@ export default function Card(props){
     }
 
     return(
-        <div className = "card">
-        <p className = "nav">Wanji-Kanji &gt; Lessons &gt; Lesson {lessonnum} &gt; {type} {count+1} / {data.length}</p>
-        <div className = {type}>
-            <Flippy
-                flipOnHover={false} // default false
-                flipOnClick={true} // default false
-                flipDirection="horizontal" // horizontal or vertical}
-            >
-                <FrontSide
+        <div>
+            <p className = "nav">Wanji-Kanji &gt; Lessons &gt; Lesson {lessonnum} &gt; {type} {count+1} / {data.length}</p>
+            <div className = "card">
+                <div className = {type}>
+                    <Flippy
+                        flipOnHover={false} // default false
+                        flipOnClick={true} // default false
+                        flipDirection="horizontal" // horizontal or vertical}
                     >
-                        {src ? <img className="kanji" src={src} alt={alt}/> : <span className = "kanji">{kanji}</span>}
-                  
-                </FrontSide>
-                <BackSide>
-                    <span className = "kanji">{kana}</span> 
-                    <span> {romaji}</span>
-                </BackSide>
-            </Flippy>
-            <img onClick = {() => {
-                if(count===0){
-                    setCount(0) 
-                }
-                else{
-                setCount(count - 1)}}
-            }className = "previous" src={Arrow1} alt="back-button"></img>
-            <img onClick = {() => {
-                if(count===data.length-1){
-                    setCount(data.length-1) 
-                }
-                else{
-                setCount(count + 1)}}
-            }className = "next" src={Arrow2} alt="forward-button"></img>
-            <button className = "first" onClick={()=> setCount(0)}>First</button>
-            <button className = "last" onClick={()=> setCount(data.length-1)}>Last</button>
-            <button className = "shuffle" onClick = {()=> {
-                setData(shuffle(data))
-                count!== 0?setCount(0):setCount(1)
-                }}>Shuffle</button>
-            <Back/>
-        </div>
+                        <FrontSide
+                            >
+                                {src ? <img className="kanji" src={src} alt={alt}/> : <span className = "kanji">{kanji}</span>}
+                        
+                        </FrontSide>
+                        <BackSide>
+                            <span className = "kanji">{kana}</span> 
+                            <span> {romaji}</span>
+                        </BackSide>
+                    </Flippy>
+                    <img onClick = {() => {
+                        if(count===0){
+                            setCount(0) 
+                        }
+                        else{
+                        setCount(count - 1)}}
+                    }className = "previous" src={Arrow1} alt="back-button"></img>
+                    <img onClick = {() => {
+                        if(count===data.length-1){
+                            setCount(data.length-1) 
+                        }
+                        else{
+                        setCount(count + 1)}}
+                    }className = "next" src={Arrow2} alt="forward-button"></img>
+                    <button className = "first" onClick={()=> setCount(0)}>First</button>
+                    <button className = "last" onClick={()=> setCount(data.length-1)}>Last</button>
+                    <button className = "shuffle" onClick = {()=> {
+                        setData(shuffle(data))
+                        count!== 0?setCount(0):setCount(1)
+                        }}>Shuffle</button>
+                    <Back/>
+                </div>
+            </div>
         </div>
     )
 }

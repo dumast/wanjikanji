@@ -83,10 +83,11 @@
 }
 
 .card {
+  position: relative;
   display: grid;
   justify-content: center;
   align-content: center;
-  height: 70vh;
+  height: 70%;
 }
 
 .flippy-front:hover, .flippy-back:hover {
@@ -98,9 +99,10 @@
 }
 
 .nav {
+  text-align: left;
+  padding-bottom: 2em;
   font-size: 0.5em;
   margin: 0;
-  position: fixed;
   top: 10px;
   left: 20px;
 }
@@ -280,8 +282,5 @@
 }
 
 .wanikani{
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  transform: translate(-50%, 0)
+  position: relative;
 }

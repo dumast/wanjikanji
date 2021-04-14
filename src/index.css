@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kosugi&family=Source+Code+Pro:wght@200&display=swap');
 
+html {
+  height: 100vh;
+}
 
 body {
   margin: 0;
@@ -13,8 +16,13 @@ body {
   color: white;
   font-size: 4em;
   overflow-x: hidden;
+  height: 100%;
 }
 
 body * {
   font-family: 'Source Code Pro';
+}
+
+#root, .App, .App>div {
+  height: 100%;
 }
