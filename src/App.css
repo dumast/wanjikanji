@@ -29,15 +29,11 @@
 }
 
 .lessons:hover {
-  font-size: 102px;
-  width: 610px;
-  height: 305px;
+  transform: scale(1.05, 1.05);
 }
 
 .lessons:active {
-  font-size: 98px;
-  width: 590px;
-  height: 295px;
+  transform: scale(1, 1)
 }
 
 .back {
@@ -132,6 +128,7 @@
 
 .lesson:hover {
   background-color: #b61313;
+  transform: scale(1.05, 1.05);
 }
 
 ::-webkit-scrollbar {
@@ -160,26 +157,32 @@
 
 .rad {
   background: #3BBBF1;
+  transition: 0.1s;
 }
 
 .rad:hover {
   background: #2da9df;
+  transform: scale(1.05, 1.05);
 }
 
 .kan {
   background: #FD37E9;
+  transition: 0.1s;
 }
 
 .kan:hover {
   background: #dd24cb;
+  transform: scale(1.05, 1.05);
 }
 
 .voc {
   background: #9236ED;
+  transition: 0.1s;
 }
 
 .voc:hover {
   background: #832cda;
+  transform: scale(1.05, 1.05);
 }
 
 .previous {
